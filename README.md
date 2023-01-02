@@ -1,1 +1,1 @@
-# multi-ged-shared-task-2023
+# multiged-shared-task-2023
