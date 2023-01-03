@@ -9,14 +9,14 @@ In this shared task your goal is to detect tokens in need of correction, labelin
 | Running nr |  Token   | Label |
 |:-----------|:---------|:------|
 | 1          |  I       | c     |
-| 2          |  saws    | i     |
+| 2          |  saws    | **i** |
 | 3          |  the     | c     |
 | 4          |  show    | c     |
 | 5          |  's      | c     |
 | 6          |  advertisement | c     |
 | 7          |  hanging | c     |
 | 8          |  up      | c     |
-| 9          |  of      | i     |
+| 9          |  of      | **i** |
 | 10         |  a       | c     |
 | 11         |  wall    | c     |
 | 12         |  in      | c     |
@@ -27,7 +27,7 @@ In this shared task your goal is to detect tokens in need of correction, labelin
 
 There is one track only, although results are reported for each language individually using ISO 639‑1 **language prefixes for submissions**. 
 
-* **cs-* for Czech
+* **cs-** for Czech
 * **en-** for English
 * **de-** for German
 * **it-** for Italian
@@ -114,7 +114,7 @@ _Describe the corpus? Link to an article about the corpus?_
 |               | • [sv-dev.tsv]()   |       |         |     |      |       |
 |               | • sv-test.tsv      |       |         |     |      |       |
 
-The corpus is described in [Volodina et al. (2019)](https://nejlt.ep.liu.se/article/view/1374) with statistics and metadata provided [here](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL). 
+The SweLL-gold corpus is described in [Volodina et al. (2019)](https://nejlt.ep.liu.se/article/view/1374) with statistics and metadata provided [here](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL). 
 
 
 ## Use of external data
@@ -129,7 +129,7 @@ Besides, you are welcome to report any errors/problems with the datasets using "
 ## Organizers
 
 * [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), Sweden/University of Gothenburg (main organizer)
-* [Cris Bryant]([https://chrisjbryant.github.io/](https://www.cst.cam.ac.uk/people/cjb255)), Great Britain/Reverso & University of Cambridge
+* [Cris Bryant](https://www.cst.cam.ac.uk/people/cjb255), Great Britain/Reverso & University of Cambridge
 * [Andew Caines](https://www.cl.cam.ac.uk/~apc38/), Great Britain/University of Cambridge
 * [Orphee DeClerq](https://research.flw.ugent.be/nl/orphee.declercq), Belgium/Gent university
 * [Jennifer Carmen Frey](https://www.eurac.edu/en/people/jennifer-carmen-frey), Italy/EURAC
