@@ -2,6 +2,8 @@
 
 [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, where five languages are included: Czech, English, German, Italian and Swedish.
 
+Participating teams will be 
+
 ## Task description
 
 In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification on a token level, as shown in the example below.
@@ -34,6 +36,7 @@ There is one track only, although results are reported for each language individ
 * **sv-** for Swedish
 
 It is possible, but not mandotary, to develop systems for each of the included languages. 
+
 
 ## Data
 
@@ -123,8 +126,29 @@ We encourage you to use ay external data of your choice, provided you describe i
 
 You can also prepare your own synthetic datasets, which we encourage you to share with the community. 
 
-Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD WE allow this???**
+Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD we allow this???**
 
+## Test data
+
+## Evaluation metrics
+
+
+
+## Timeline
+
+* approx mid-Januarry 2022 - first call for participation. Training data released, CodaLab opens for team registrations.
+* approx mid-February 2023 - validation server released online
+* approx end of February 2023 - test data released
+* approx 5 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
+* approx mid-March 2023 - results announced
+* approx 8-10 April 2023 - paper submission deadline (system descriptions)
+* approx end April 2023 - paper reviews sent to the authors
+* approx 10 May 2023 - camera-ready deadline
+* 22(-24) May 2023 - presentations of the systems at workshop NLP4CALL
+
+## Registration for the task
+
+Teams that intend to participate, are requested to fill in this form. 
 
 ## Organizers
 
