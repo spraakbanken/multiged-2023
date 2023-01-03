@@ -4,7 +4,7 @@
 
 ## Task description
 
-In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification on a token level.
+In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification on a token level, as shown in the example below.
 
 | Running nr |  Token   | Label |
 |:-----------|:---------|:------|
@@ -33,17 +33,17 @@ There is one track only, although results are reported for each language individ
 * **it-** for Italian
 * **sv-** for Swedish
 
-It is possible, but not mandotary to develop systems for each of the participating languages. 
+It is possible, but not mandotary, to develop systems for each of the included languages. 
 
 ## Data
 
-For each of the languages we use a corpus of second language learner essays as a source. For corpora that have been previously used for shared tasks, we follow the same data splits (Czech, English-FCE, German, Italian).
+For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same data splits (e.g. Czech, English-FCE, German, **Italian???** ).
 
-Two new datasets are introduced in this shared task: one for Swedish (based on SweLL corpus) and another for English (based on REALEC corpus).
+Two new datasets are introduced in this shared task: one for Swedish (based on SweLL corpus) and another for English (based on REALEC corpus). **--Any other that are new?**
 
-You can download the datasets from the links below.
+You are welcome to use the provided datasets across languages **(any betteer way of saying that?)**
 
-_Should we link the datasets to the file names in the tables below (except text, of course)?_
+You can download the datasets from the links below. ** --Should we link the datasets to the file names in the tables below (except text, of course)? **
 
 ### Czech
 
@@ -119,11 +119,11 @@ The SweLL-gold corpus is described in [Volodina et al. (2019)](https://nejlt.ep.
 
 ## Use of external data
 
-We encourage you to use ay external data of your choice, provided you describe it and - preferably - share the addditional resources for potential replication studies.
+We encourage you to use ay external data of your choice, provided you describe it and - wheere possible - share with the community for potential replication studies.
 
 You can also prepare your own synthetic datasets, which we encourage you to share with the community. 
 
-Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD WE???**
+Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD WE allow this???**
 
 
 ## Organizers
