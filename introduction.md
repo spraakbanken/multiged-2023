@@ -2,7 +2,7 @@
 
 [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, where five languages are included: Czech, English, German, Italian and Swedish.
 
-The results will be presented on May, 22, 2023, at NLP4CALL workshop, held in connection to NODALIDA conference in Faroe Island. 
+The results will be presented on May, 22, 2023, at NLP4CALL workshop, colocated with [NODALIDA conference](https://www.nodalida2023.fo/) to be held in Faroe Island. 
 
 To register, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
@@ -29,7 +29,7 @@ In this shared task your goal is to detect tokens in need of correction, labelin
 
 ## Tracks
 
-There is one track only, although results are reported for each language individually using ISO 639‑1 **language prefixes for submissions**. 
+There is one track only, although results will be collected and compared by each individual language. When submitting your results, please use ISO 639‑1 **language prefixes**. 
 
 * **cs-** for Czech
 * **en-** for English
@@ -44,13 +44,13 @@ It is possible, but not mandotary, to develop systems for each of the included l
 
 For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same data splits (e.g. Czech, English-FCE, German, **Italian???** ).
 
-Two new datasets are introduced in this shared task: one for Swedish (based on SweLL corpus) and another for English (based on REALEC corpus). **--Any other that are new?**
+Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus). **--Any others that are new?**
 
 The data is organized in columns, with one token per line; each sentence is separated by an empty line. ** IS THIS TRUE? Andrew? **
 
-You are welcome to use the provided datasets across languages **(any better way of saying that?)**
+You are welcome to use the provided datasets across languages and mix them as you see fit **(any better way of saying that?)**
 
-You can download the datasets from the links below. ** --Should we link the datasets to the file names in the tables below (except text, of course)? **
+You can download the datasets from the links below. **--Should we link the datasets to the file names in the tables below (except text, of course)?**
 
 ### Czech
 
@@ -126,9 +126,9 @@ The SweLL-gold corpus is described in [Volodina et al. (2019)](https://nejlt.ep.
 
 ## Use of external data
 
-We encourage you to use ay external data of your choice, provided you describe it and - wheere possible - share with the community for potential replication studies.
+We encourage you to use ay external data of your choice, provided you describe it and - where possible - share with the community for potential replication studies.
 
-You can also prepare your own synthetic datasets, which we encourage you to share with the community. 
+You can also prepare your own synthetic datasets, which we also encourage you to share with the community. 
 
 Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD we allow this???**
 
@@ -144,7 +144,7 @@ The final model will be evaluated on a hidden test set. We will release test fil
 
 **Chris, could you please add some intformation here?** 
 
-You will be able to test your models tudes on validation datasets using the evaluation script through [CodaLab](). **Orphee, please add here the link to the CodaLab**
+You will be able to test your models tuned on validation datasets using the evaluation script through [CodaLab](). **Orphee, please add here the link to the CodaLab**
 
 ### Evaluation metrics
 
@@ -156,7 +156,14 @@ The script should give you an output that looks like this: **BLA-BLA-BLA ***
 
 ## Submissions
 
-You are wlcome to submit a paper with system description to the NLP4CALL 
+All system submissions will be administered through CodaLab.
+
+Further insructions .... **Orphee?**
+
+## Publication
+
+You are welcome to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed. **Is this right?**
+Accepted papers will be published in the workshop proceedings through NEALT Proceedings Series and ACL anthology.  
 
 
 ## Timeline
