@@ -2,7 +2,9 @@
 
 [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, where five languages are included: Czech, English, German, Italian and Swedish.
 
-Participating teams will be 
+The results will be presented on May, 22, 2023, at NLP4CALL workshop, held in connection to NODALIDA conference in Faroe Island. 
+
+To register, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
 ## Task description
 
@@ -44,7 +46,9 @@ For each of the languages we use a corpus of second language learner essays as a
 
 Two new datasets are introduced in this shared task: one for Swedish (based on SweLL corpus) and another for English (based on REALEC corpus). **--Any other that are new?**
 
-You are welcome to use the provided datasets across languages **(any betteer way of saying that?)**
+The data is organized in columns, with one token per line; each sentence is separated by an empty line. ** IS THIS TRUE? Andrew? **
+
+You are welcome to use the provided datasets across languages **(any better way of saying that?)**
 
 You can download the datasets from the links below. ** --Should we link the datasets to the file names in the tables below (except text, of course)? **
 
@@ -130,8 +134,29 @@ Besides, you are welcome to report any errors/problems with the datasets using "
 
 ## Test data
 
-## Evaluation metrics
+The final model will be evaluated on a hidden test set. We will release test files per language to the registered participants by the end of February 2023. Please fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6) to register for participation.
 
+**IS THIS CORRECT, Orphee?**
+
+## Evaluation 
+
+### Evaluation script
+
+**Chris, could you please add some intformation here?** 
+
+You will be able to test your models tudes on validation datasets using the evaluation script through [CodaLab](). **Orphee, please add here the link to the CodaLab**
+
+### Evaluation metrics
+
+We are using M2 metrics described in [Bryant et al (2022)](https://arxiv.org/abs/2211.05166), section 6.1 ...
+
+The script should give you an output that looks like this: **BLA-BLA-BLA ***
+
+**Chris, could you please add some intformation here?** 
+
+## Submissions
+
+You are wlcome to submit a paper with system description to the NLP4CALL 
 
 
 ## Timeline
@@ -148,7 +173,7 @@ Besides, you are welcome to report any errors/problems with the datasets using "
 
 ## Registration for the task
 
-Teams that intend to participate, are requested to fill in this form. 
+Teams that intend to participate, are requested to fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6). 
 
 ## Organizers
 
