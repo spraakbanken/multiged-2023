@@ -46,7 +46,7 @@ For each of the languages we use a corpus of second language learner essays as a
 
 Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus). **--Any others that are new?**
 
-The data is organized in columns, with one token per line; each sentence is separated by an empty line. ** IS THIS TRUE? Andrew? **
+The data is organized in columns, with one token per line; each sentence is separated by an empty line. **IS THIS TRUE? Andrew?**
 
 You are welcome to use the provided datasets across languages and mix them as you see fit **(any better way of saying that?)**
 
