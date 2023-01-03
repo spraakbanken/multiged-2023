@@ -1,10 +1,10 @@
 # Shared task on Multilingual Grammatical Error Detection (MultiGED-2023)
 
-Computational SLA working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, _MultiGED_, where five languages are included: Czech, English, German, Italian and Swedish.
+[Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, where five languages are included: Czech, English, German, Italian and Swedish.
 
 ## Task description
 
-In this shared task your goal is to detect tokens in need of correction, labeling them as either correct ("c") or incorrect ("i") for each token, i.e. binary classification.
+In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification on a token level.
 
 | Running nr |  Token   | Label |
 |:-----------|:---------|:------|
@@ -25,13 +25,13 @@ In this shared task your goal is to detect tokens in need of correction, labelin
 
 ## Tracks
 
-There is one track only, although results are reported for each language individually using ISO 639‑1 language prefixes for submissions. 
+There is one track only, although results are reported for each language individually using ISO 639‑1 **language prefixes for submissions**. 
 
-* cs- for Czech
-* en- for English
-* de- for German
-* it- for Italian
-* sv- for Swedish
+* **cs-* for Czech
+* **en-** for English
+* **de-** for German
+* **it-** for Italian
+* **sv-** for Swedish
 
 It is possible, but not mandotary to develop systems for each of the participating languages. 
 
@@ -117,7 +117,26 @@ _Describe the corpus? Link to an article about the corpus?_
 The corpus is described in [Volodina et al. (2019)](https://nejlt.ep.liu.se/article/view/1374) with statistics and metadata provided [here](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL). 
 
 
-##
+## Use of external data
+
+We encourage you to use ay external data of your choice, provided you describe it and - preferably - share the addditional resources for potential replication studies.
+
+You can also prepare your own synthetic datasets, which we encourage you to share with the community. 
+
+Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD WE???**
 
 
+## Organizers
 
+* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), Sweden/University of Gothenburg (main organizer)
+* [Cris Bryant]([https://chrisjbryant.github.io/](https://www.cst.cam.ac.uk/people/cjb255)), Great Britain/Reverso & University of Cambridge
+* [Andew Caines](https://www.cl.cam.ac.uk/~apc38/), Great Britain/University of Cambridge
+* [Orphee DeClerq](https://research.flw.ugent.be/nl/orphee.declercq), Belgium/Gent university
+* [Jennifer Carmen Frey](https://www.eurac.edu/en/people/jennifer-carmen-frey), Italy/EURAC
+* Elizaveta Ershova, Cyprus/JetBrains
+* [Alexandr Rosen](http://utkl.ff.cuni.cz/~rosen/), Czech Republic/Charles university
+* Olga Vinogradova, Israel 
+
+## Contact information
+
+Mail to: < multiged - 2023 @ googlegroups . com >
