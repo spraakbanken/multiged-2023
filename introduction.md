@@ -150,7 +150,7 @@ You will be able to test your models tuned on validation datasets using the eval
 
 We are using M2 metrics described in [Bryant et al (2022)](https://arxiv.org/abs/2211.05166), section 6.1 ...
 
-The script should give you an output that looks like this: **BLA-BLA-BLA ***
+The script should give you an output that looks like this: **BLA-BLA-BLA**
 
 **Chris, could you please add some intformation here?** 
 
