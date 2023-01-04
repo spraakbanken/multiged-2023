@@ -10,21 +10,21 @@ To register, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
 In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification on a token level, as shown in the example below.
 
-| Running nr |  Token   | Label |
-|:-----------|:---------|:------|
-| 1          |  I       | c     |
-| 2          |  saws    | **i** |
-| 3          |  the     | c     |
-| 4          |  show    | c     |
-| 5          |  's      | c     |
-| 6          |  advertisement | c     |
-| 7          |  hanging | c     |
-| 8          |  up      | c     |
-| 9          |  of      | **i** |
-| 10         |  a       | c     |
-| 11         |  wall    | c     |
-| 12         |  in      | c     |
-| 13         |  London  | c     |
+| Token ID |  Token   | Label |
+|:---------|:---------|:------|
+| 1        |  I       | c     |
+| 2        |  saws    | **i** |
+| 3        |  the     | c     |
+| 4        |  show    | c     |
+| 5        |  's      | c     |
+| 6        |  advertisement | c  |
+| 7        |  hanging | c     |
+| 8        |  up      | c     |
+| 9        |  of      | **i** |
+| 10       |  a       | c     |
+| 11       |  wall    | c     |
+| 12       |  in      | c     |
+| 13       |  London  | c     |
 
 
 ## Tracks
@@ -126,7 +126,7 @@ The SweLL-gold corpus is described in [Volodina et al. (2019)](https://nejlt.ep.
 
 ## Use of external data
 
-We encourage you to use ay external data of your choice, provided you describe it and - where possible - share with the community for potential replication studies.
+We encourage you to use any external data of your choice, provided you describe it and - where possible - share with the community for potential replication studies.  **CB: I would say participants can use any data they wish, provided it is publicly available for research purposes.**
 
 You can also prepare your own synthetic datasets, which we also encourage you to share with the community. 
 
@@ -140,19 +140,31 @@ The final model will be evaluated on a hidden test set. We will release test fil
 
 ## Evaluation 
 
+### Evaluation metric
+
+Evaluation will be carried out in terms of token-based Precision, Recall and F0.5 to be consistent with previous work on error detection ([Bell et al., 2019](https://aclanthology.org/W19-4410/); [Kaneko and Komachi, 2019](https://arxiv.org/pdf/1904.07334.pdf); [Yuan et al., 2021](https://aclanthology.org/2021.emnlp-main.687/).)
+
+Example:  
+
+| Token ID |  Token   | Reference | Hypothesis | Meaning
+|:---------|:---------|:----------|:-----------|:--------|
+| 1        |  I       | c         | c          |         |
+| 2        |  saws    | i         | i          | True Positive |
+| 3        |  the     | c         | c          |         |
+| 4        |  show    | c         | i          | False Positive |
+| 5        |  last    | c         | c          |         |
+| 6        |  nigt    | i         | c          | False Negative |
+| 7        |  .       | c         | c          |         |
+
+F0.5 is used instead of F1 because humans judge false positives more harshly than false negatives and so precision is more important than recall.  
+
 ### Evaluation script
 
-**Chris, could you please add some intformation here?** 
+The provided `eval.py` script calculates system performance from input CoNLL-format Hypothesis and Reference tab-separated files. This script is used to evaluate any output submitted to [Codalab]() (development/test data), but you can also download it and use it independently. The script is run from the command line as follows:  **Orphee to add Codalab link!**
 
-You will be able to test your models tuned on validation datasets using the evaluation script through [CodaLab](). **Orphee, please add here the link to the CodaLab**
+`python3 eval.py -hyp <hyp_tsv> -ref <ref_tsv>`
 
-### Evaluation metrics
-
-We are using M2 metrics described in [Bryant et al (2022)](https://arxiv.org/abs/2211.05166), section 6.1 ...
-
-The script should give you an output that looks like this: **BLA-BLA-BLA**
-
-**Chris, could you please add some intformation here?** 
+It is assumed that the `hyp_tsv` file is in the same format as the equivlanet `ref_tsv` file provided in this shared task. The script processes a single language at a time, so you will need to call it several times to evaluate multiple languages.  
 
 ## System submissions
 
@@ -186,13 +198,13 @@ Teams that intend to participate, are requested to fill in [this form](https://f
 
 ## Organizers
 
-* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), Sweden/University of Gothenburg
-* [Cris Bryant](https://www.cst.cam.ac.uk/people/cjb255), Great Britain/Reverso & University of Cambridge
-* [Andew Caines](https://www.cl.cam.ac.uk/~apc38/), Great Britain/University of Cambridge
-* [Orphee DeClerq](https://research.flw.ugent.be/nl/orphee.declercq), Belgium/Gent university
-* [Jennifer Carmen Frey](https://www.eurac.edu/en/people/jennifer-carmen-frey), Italy/EURAC
-* Elizaveta Ershova, Cyprus/JetBrains
-* [Alexandr Rosen](http://utkl.ff.cuni.cz/~rosen/), Czech Republic/Charles university
+* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden
+* [Chris Bryant](https://www.cst.cam.ac.uk/people/cjb255), University of Cambridge, UK
+* [Andrew Caines](https://www.cl.cam.ac.uk/~apc38/), University of Cambridge, UK
+* [Orphee De Clercq](https://research.flw.ugent.be/nl/orphee.declercq), Ghent University, Belgium
+* [Jennifer-Carmen Frey](https://www.eurac.edu/en/people/jennifer-carmen-frey), EURAC Research, Italy
+* Elizaveta Ershova, JetBrains, Cyprus
+* [Alexandr Rosen](http://utkl.ff.cuni.cz/~rosen/), Charles University, Czech Republic
 * Olga Vinogradova, Israel 
 
 ## Contact information and forum for discussions
