@@ -201,4 +201,7 @@ Mail your questions to: < multiged - 2023 @ googlegroups . com >
 
 This is a google group which you can join, ask questions, discuss them and browse for already answered questions.
 
+## References
+
+* Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue. [pdf]
 
