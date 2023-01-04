@@ -168,15 +168,15 @@ Accepted papers will be published in the workshop proceedings through NEALT Proc
 
 ## Timeline
 
-* approx mid-Januarry 2022 - first call for participation. Training data released, CodaLab opens for team registrations.
-* approx mid-February 2023 - validation server released online
-* approx end of February 2023 - test data released
-* approx 5 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
-* approx mid-March 2023 - results announced
-* approx 8-10 April 2023 - paper submission deadline (system descriptions)
-* approx end April 2023 - paper reviews sent to the authors
-* approx 10 May 2023 - camera-ready deadline
-* 22(-24) May 2023 - presentations of the systems at workshop NLP4CALL
+* ≈ mid-Januarry 2022 - first call for participation. Training data released, CodaLab opens for team registrations.
+* ≈ mid-February 2023 - validation server released online
+* ≈ end of February 2023 - test data released
+* ≈ 5 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
+* ≈ mid-March 2023 - results announced
+* ≈ 8-10 April 2023 - paper submission deadline (system descriptions)
+* ≈ end April 2023 - paper reviews sent to the authors
+* ≈ 10 May 2023 - camera-ready deadline
+* 22 May 2023 - presentations of the systems at NLP4CALL workshop 
 
 ## Registration for the task
 
@@ -184,7 +184,7 @@ Teams that intend to participate, are requested to fill in [this form](https://f
 
 ## Organizers
 
-* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), Sweden/University of Gothenburg (main organizer)
+* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), Sweden/University of Gothenburg
 * [Cris Bryant](https://www.cst.cam.ac.uk/people/cjb255), Great Britain/Reverso & University of Cambridge
 * [Andew Caines](https://www.cl.cam.ac.uk/~apc38/), Great Britain/University of Cambridge
 * [Orphee DeClerq](https://research.flw.ugent.be/nl/orphee.declercq), Belgium/Gent university
