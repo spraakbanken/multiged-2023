@@ -58,7 +58,7 @@ You can download the datasets from the links below. **--Should we link the datas
 |:---------|:-------------|:---------------|:------------------|
 | Czech    | GECCC        |                |                   |
 | English  | FCE          |                |                   |
-|          | REEALEC      |                |                   |
+|          | REALEC       |                |                   |
 | German   | FALCO        |                |                   |
 |          | Merlin       |                |                   |
 | Italian  | Merlin       |                |                   |
@@ -230,5 +230,5 @@ This is a google group which you can join, ask questions, discuss them and brows
 
 ## References
 
-* Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue. [pdf]
+* Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue.
 
