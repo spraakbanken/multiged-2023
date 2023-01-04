@@ -52,6 +52,21 @@ You are welcome to use the provided datasets across languages and mix them as yo
 
 You can download the datasets from the links below. **--Should we link the datasets to the file names in the tables below (except text, of course)?**
 
+### Data licenses
+
+| Language |  Corpus name | Corpus license | MultiGEDD license | 
+|:---------|:-------------|:---------------|:------------------|
+| Czech    | GECCC        |                |                   |
+| English  | FCE          |                |                   |
+|          | REEALEC      |                |                   |
+| German   | FALCO        |                |                   |
+|          | Merlin       |                |                   |
+| Italian  | Merlin       |                |                   |
+| Swedish  | SweLL-gold   |                |                   |
+
+
+
+
 ### Czech
 
 | Source corpus |  Split             | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
