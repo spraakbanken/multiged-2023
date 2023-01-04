@@ -29,7 +29,7 @@ In this shared task your goal is to detect tokens in need of correction, labelin
 
 ## Tracks
 
-There is one track only, although results will be collected and compared by each individual language. When submitting your results, please use ISO 639‑1 **language prefixes**. 
+There is one track only, although results will be collected and compared by each individual language. When submitting your results, please use ISO 639‑1 **language prefixes** to indicate which language your system is developed for and should be tested on. 
 
 * **cs-** for Czech
 * **en-** for English
@@ -154,7 +154,7 @@ The script should give you an output that looks like this: **BLA-BLA-BLA**
 
 **Chris, could you please add some intformation here?** 
 
-## Submissions
+## System submissions
 
 All system submissions will be administered through CodaLab.
 
@@ -162,8 +162,10 @@ Further insructions .... **Orphee?**
 
 ## Publication
 
-You are welcome to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed. **Is this right?**
-Accepted papers will be published in the workshop proceedings through NEALT Proceedings Series and ACL anthology.  
+You are welcome to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed by the organizing committee. **Is this right?**
+Accepted papers will be published in the workshop proceedings through NEALT Proceedings Series and double-published through ACL anthology. 
+
+Further instructions on this will follow.
 
 
 ## Timeline
@@ -193,6 +195,10 @@ Teams that intend to participate, are requested to fill in [this form](https://f
 * [Alexandr Rosen](http://utkl.ff.cuni.cz/~rosen/), Czech Republic/Charles university
 * Olga Vinogradova, Israel 
 
-## Contact information
+## Contact information and forum for discussions
 
-Mail to: < multiged - 2023 @ googlegroups . com >
+Mail your questions to: < multiged - 2023 @ googlegroups . com >
+
+This is a google group which you can join, ask questions, discuss them and browse for already answered questions.
+
+
