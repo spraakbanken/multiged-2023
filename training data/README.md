@@ -1,4 +1,4 @@
-#MultiGED Shared Task 2023: Training data
+# MultiGED Shared Task 2023: Training data
 
 ## Format
 
