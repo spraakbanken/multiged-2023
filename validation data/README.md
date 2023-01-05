@@ -1,4 +1,4 @@
-# MultiGED Shared Task 2023: Validation data
+# MultiGED Shared Task 2023: Validation / dev(elopment) data
 
 ## Format
 
