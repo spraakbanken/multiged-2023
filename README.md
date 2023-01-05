@@ -1,8 +1,8 @@
 # Shared task on Multilingual Grammatical Error Detection (MultiGED-2023)
 
-[Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, where five languages are included: Czech, English, German, Italian and Swedish.
+The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, where five languages are included: Czech, English, German, Italian and Swedish.
 
-The results will be presented on May, 22, 2023, at NLP4CALL workshop, colocated with [NODALIDA conference](https://www.nodalida2023.fo/) to be held in Faroe Islands. 
+The results will be presented on May, 22, 2023, at the NLP4CALL workshop, colocated with [NODALIDA conference](https://www.nodalida2023.fo/) to be held in the Faroe Islands. 
 
 To register, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
@@ -29,7 +29,7 @@ In this shared task your goal is to detect tokens in need of correction, labelin
 
 ## Tracks
 
-There is one track only, although results will be collected and compared by each individual language. When submitting your results, please use ISO 639‑1 **language prefixes** to indicate which language your system is developed for and should be tested on. 
+There is one track only, although results will be collected and compared by each individual language. When submitting your results, please use ISO 639‑1 **language prefixes** to indicate which language your system was developed for and should be tested on. 
 
 * **cs-** for Czech
 * **en-** for English
@@ -42,19 +42,20 @@ It is possible, but not mandotary, to develop systems for each of the included l
 
 ## Data
 
-For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same data splits (e.g. Czech, English-FCE, German, **Italian???** ).
+For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same data splits (e.g. Czech, English-FCE, German).
 
 Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus). **--Any others that are new?**
 
-The data is organized in columns, with one token per line; each sentence is separated by an empty line. **IS THIS TRUE? Andrew?**
+The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that speech marks are escaped like this: `\"`.
 
 You are welcome to use the provided datasets across languages and mix them as you see fit **(any better way of saying that?)**
 
-You can download the datasets from the links below. **--Should we link the datasets to the file names in the tables below (except text, of course)?**
+You can download the datasets from the links below. **--Should we link the datasets to the file names in the tables below (except text, of course)?** AC: I would say that there are training and validation folders in this repository. So the easiest thing is for people to clone the whole repo.
+
 
 ### Data licenses
 
-| Language |  Corpus name | Corpus license | MultiGEDD license | 
+| Language |  Corpus name | Corpus license | MultiGED license | 
 |:---------|:-------------|:---------------|:------------------|
 | Czech    | GECCC        |                |                   |
 | English  | FCE          |                |                   |
@@ -63,8 +64,6 @@ You can download the datasets from the links below. **--Should we link the datas
 |          | Merlin       |                |                   |
 | Italian  | Merlin       |                |                   |
 | Swedish  | SweLL-gold   |                |                   |
-
-
 
 
 ### Czech
@@ -77,6 +76,7 @@ You can download the datasets from the links below. **--Should we link the datas
 |               | • cs-test.tsv      | 0.080      | 2,878        |32,109     | 8,854     | 0.276      |
 
 _Describe the corpus? Link to an article about the corpus?_ 
+
 
 ### English
 
@@ -98,8 +98,8 @@ _Describe the corpus? Link to an article about the corpus?_
 |               | • [en-dev-realec.tsv]()   | 0.095      | 19,883       |419,161    | 28,995    | 0.069      |
 |               | • en-test-realec.tsv      | 0.095      | 19,955       |421,495    | 29,004    | 0.069      |
 
-
 _Describe the corpus? Link to an article about the corpus?_ 
+
 
 ### German
 
@@ -145,13 +145,15 @@ We encourage you to use any external data of your choice, provided you describe 
 
 You can also prepare your own synthetic datasets, which we also encourage you to share with the community. 
 
-Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD we allow this???**
+Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD we allow this???** AC: yes good idea.
+
 
 ## Test data
 
 The final model will be evaluated on a hidden test set. We will release test files per language to the registered participants by the end of February 2023. Please fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6) to register for participation.
 
 **IS THIS CORRECT, Orphee?**
+
 
 ## Evaluation 
 
@@ -173,6 +175,7 @@ Example:
 
 F0.5 is used instead of F1 because humans judge false positives more harshly than false negatives and so precision is more important than recall.  
 
+
 ### Evaluation script
 
 The provided `eval.py` script calculates system performance from input CoNLL-format Hypothesis and Reference tab-separated files. This script is used to evaluate any output submitted to [Codalab]() (development/test data), but you can also download it and use it independently. The script is run from the command line as follows:  **Orphee to add Codalab link!**
@@ -181,23 +184,26 @@ The provided `eval.py` script calculates system performance from input CoNLL-for
 
 It is assumed that the `hyp_tsv` file is in the same format as the equivlanet `ref_tsv` file provided in this shared task. The script processes a single language at a time, so you will need to call it several times to evaluate multiple languages.  
 
+
 ## System submissions
 
 All system submissions will be administered through CodaLab.
 
 Further insructions .... **Orphee?**
 
+
 ## Publication
 
-You are welcome to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed by the organizing committee. **Is this right?**
-Accepted papers will be published in the workshop proceedings through NEALT Proceedings Series and double-published through ACL anthology. 
+You are welcome to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed by the organizing committee. **Is this right?** AC: I think it could be 'We encourage you to...' (a little stronger), and yes we'll have to review them fairly quickly as a group effort, unlikely we'll reject any papers, but we should be clear what we expect in terms of minimum requirements for a decent paper in this context.
+
+Accepted papers will be published in the workshop proceedings through NEALT Proceedings Series and double-published through the ACL anthology. 
 
 Further instructions on this will follow.
 
 
 ## Timeline
 
-* ≈ mid-Januarry 2022 - first call for participation. Training data released, CodaLab opens for team registrations.
+* ≈ mid-January 2022 - first call for participation. Training data released, CodaLab opens for team registrations.
 * ≈ mid-February 2023 - validation server released online
 * ≈ end of February 2023 - test data released
 * ≈ 5 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
@@ -226,7 +232,7 @@ Teams that intend to participate, are requested to fill in [this form](https://f
 
 Mail your questions to: < multiged - 2023 @ googlegroups . com >
 
-This is a google group which you can join, ask questions, discuss them and browse for already answered questions.
+This is a google group which you can join, ask questions, hold discussions and browse for already answered questions.
 
 ## References
 
