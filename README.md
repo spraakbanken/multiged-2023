@@ -37,7 +37,7 @@ There is one track only, although results will be collected and compared by each
 * **it-** for Italian
 * **sv-** for Swedish
 
-It is possible, but not mandotary, to develop systems for each of the included languages. 
+It is possible, but not mandatory, to develop systems for each of the included languages. 
 
 
 ## Data
@@ -145,7 +145,7 @@ We encourage you to use any external data of your choice, provided you describe 
 
 You can also prepare your own synthetic datasets, which we also encourage you to share with the community. 
 
-Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD we allow this???** AC: yes good idea.
+Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD we allow this???** AC: yes good idea; if people find any data problems we'll need to remember to announce it on the google group (that there's a new version of the data).
 
 
 ## Test data
