@@ -46,7 +46,7 @@ For each of the languages we use a corpus of second language learner essays as a
 
 Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus). **--Any others that are new?**
 
-The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that speech marks are escaped like this: `\"`.
+The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that speech/quotation marks are escaped like this: `\"`.
 
 You are welcome to use the provided datasets across languages and mix them as you see fit **(any better way of saying that?)**
 
@@ -111,7 +111,8 @@ _Describe the corpus? Link to an article about the corpus?_
 |               | • de-test.tsv      | 0.096      | 2,337        |36,577     | 6,202     | 0.170      |
 
 
-_Describe the corpus? Link to an article about the corpus?_ 
+The dataset split used here is described in [Boyed (2018)](https://aclanthology.org/W18-6111.pdf) and has been published [here](https://github.com/adrianeboyd/boyd-wnut2018).
+Furhter information on Merlin can be found in [Boyd et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/606_Paper.pdf) and  on the [Merlin platform](https://www.merlin-platform.eu/). Further information on Falko can be found [here](https://hu-berlin.de/falko).
 
 
 ### Italian
@@ -124,7 +125,7 @@ _Describe the corpus? Link to an article about the corpus?_
 |               | • it-test.tsv      | 0.101      | 2,337        |10,017     | 1,446     | 0.144      |
 
 
-_Describe the corpus? Link to an article about the corpus?_ 
+The Merlin corpus is described in [Boyd et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/606_Paper.pdf). Further documentation can be found on the [Merlin platform](https://www.merlin-platform.eu/).
 
 
 ### Swedish
@@ -194,7 +195,7 @@ Further insructions .... **Orphee?**
 
 ## Publication
 
-You are welcome to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed by the organizing committee. **Is this right?** AC: I think it could be 'We encourage you to...' (a little stronger), and yes we'll have to review them fairly quickly as a group effort, unlikely we'll reject any papers, but we should be clear what we expect in terms of minimum requirements for a decent paper in this context.
+We encourage you to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed by the organizing committee. **Is this right?** AC: yes we'll have to review them fairly quickly as a group effort, unlikely we'll reject any papers, but we should be clear what we expect in terms of minimum requirements for a decent paper in this context.
 
 Accepted papers will be published in the workshop proceedings through NEALT Proceedings Series and double-published through the ACL anthology. 
 
@@ -237,4 +238,6 @@ This is a google group which you can join, ask questions, hold discussions and b
 ## References
 
 * Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue.
+* Adriane Boyd, Jirka Hana, Lionel Nicolas, Detmar Meurers, Katrin Wisniewski, Andrea Abel, Karin Schöne, Barbora Štindlová, and Chiara Vettori (2014). The MERLIN corpus: Learner language and the CEFR. Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14), pp. 1281-1288.
+* Adriane Boyd (2018). Using Wikipedia edits in low resource grammatical error correction. Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text, pp. 79-84. 
 
