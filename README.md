@@ -112,7 +112,8 @@ _Describe the corpus? Link to an article about the corpus?_
 
 
 The dataset split used here is described in [Boyed (2018)](https://aclanthology.org/W18-6111.pdf) and has been published [here](https://github.com/adrianeboyd/boyd-wnut2018).
-Furhter information on Merlin can be found in [Boyd et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/606_Paper.pdf) and  on the [Merlin platform](https://www.merlin-platform.eu/). Further information on Falko can be found [here](https://hu-berlin.de/falko).
+
+Further information on Merlin can be found in [Boyd et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/606_Paper.pdf) and  on the [Merlin platform](https://www.merlin-platform.eu/). For Falko, please refer to the Falko website [here](https://hu-berlin.de/falko).
 
 
 ### Italian
