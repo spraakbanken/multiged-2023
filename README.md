@@ -57,7 +57,7 @@ You can download the datasets from the links below. **--Should we link the datas
 
 | Language |  Corpus name | Corpus license | MultiGED license | 
 |:---------|:-------------|:---------------|:------------------|
-| Czech    | GECCC        |                |                   |
+| Czech    | GECCC        | CC BY-SA 4.0   |                   |
 | English  | FCE          | [custom](https://ilexir.co.uk/datasets/index.html)  |                   |
 |          | REALEC       |                |                   |
 | German   | Falko        | CC BY-SA 4.0   |                   |
@@ -75,7 +75,7 @@ You can download the datasets from the links below. **--Should we link the datas
 |               | • [cs-dev.tsv]()   | 0.073      | 2,779        |29,221     | 8,301     | 0.284      |
 |               | • cs-test.tsv      | 0.080      | 2,878        |32,109     | 8,854     | 0.276      |
 
-_Describe the corpus? Link to an article about the corpus?_ 
+Grammar Error Correction Corpus for Czech ([GECCC](https://arxiv.org/pdf/2201.05590.pdf)) consists of 83 058 sentences and covers four diverse domains, including essays written by native students, informal website texts, essays written by Romani ethnic minority children and teenagers and essays written by nonnative speakers. All domains are professionally annotated for GEC errors in a unified manner, and errors were automatically categorized with a Czech-specific version of the ERRor ANnotation Toolkit ([ERRANT](https://github.com/chrisjbryant/errant)), released [here](https://github.com/ufal/errant_czech). For more details see [Naplava et al. (2022)](https://arxiv.org/pdf/2201.05590.pdf).
 
 
 ### English
@@ -248,5 +248,6 @@ This is a google group which you can join, ask questions, hold discussions and b
 * Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue.
 * Adriane Boyd, Jirka Hana, Lionel Nicolas, Detmar Meurers, Katrin Wisniewski, Andrea Abel, Karin Schöne, Barbora Štindlová, and Chiara Vettori (2014). The MERLIN corpus: Learner language and the CEFR. Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14), pp. 1281-1288.
 * Adriane Boyd (2018). Using Wikipedia edits in low resource grammatical error correction. Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text, pp. 79-84. 
+* Jakub Náplava, Milan Straka, Jana Straková and Alexandr Rosen (2022). Czech Grammar Error Correction with a Large and Diverse Corpus. Transactions of the Association for Computational Linguistics 10 (2022), pp. 452–467.
 * Helen Yannakoudakis, Ted Briscoe, and Ben Medlock (2011). A New Dataset and Method for Automatically Grading ESOL Texts. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, pages 180–189.
 
