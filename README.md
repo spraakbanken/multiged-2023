@@ -2,7 +2,7 @@
 
 The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, where five languages are included: Czech, English, German, Italian and Swedish.
 
-The results will be presented on May, 22, 2023, at the NLP4CALL workshop, colocated with [NODALIDA conference](https://www.nodalida2023.fo/) to be held in the Faroe Islands. 
+The results will be presented on May, 22, 2023, at the NLP4CALL workshop, colocated with the [NODALIDA conference](https://www.nodalida2023.fo/) to be held in the Faroe Islands. 
 
 To register, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
@@ -46,11 +46,11 @@ For each of the languages we use a corpus of second language learner essays as a
 
 Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus). **--Any others that are new?**
 
-The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that speech/quotation marks are escaped like this: `\"`.
+The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that there are no column headers.
 
 You are welcome to use the provided datasets across languages and mix them as you see fit **(any better way of saying that?)**
 
-You can download the datasets from the links below. **--Should we link the datasets to the file names in the tables below (except text, of course)?** AC: I would say that there are training and validation folders in this repository. So the easiest thing is for people to clone the whole repo.
+You can download the datasets from the links below. **--Should we link the datasets to the file names in the tables below (except text, of course)?** AC: I would say that there are training and validation (or 'dev' if we rename it) folders in this repository. So the easiest thing is for people to clone the whole repo.
 
 
 ### Data licenses
@@ -58,11 +58,11 @@ You can download the datasets from the links below. **--Should we link the datas
 | Language |  Corpus name | Corpus license | MultiGED license | 
 |:---------|:-------------|:---------------|:------------------|
 | Czech    | GECCC        |                |                   |
-| English  | FCE          |                |                   |
+| English  | FCE          | [custom](https://ilexir.co.uk/datasets/index.html)  |                   |
 |          | REALEC       |                |                   |
-| German   | FALCO        |                |                   |
-|          | Merlin       |                |                   |
-| Italian  | Merlin       |                |                   |
+| German   | Falko        | CC BY-SA 4.0   |                   |
+|          | MERLIN       | CC BY 3.0      |                   |
+| Italian  | MERLIN       | CC BY 3.0      |                   |
 | Swedish  | SweLL-gold   |                |                   |
 
 
@@ -89,7 +89,10 @@ There are two corpora for English: FCE and REALEC
 |               | • [en-dev-fce.tsv]()   | 0.062      | 2,191        |34,748     | 3,678     | 0.106      |
 |               | • en-test-fce.tsv      | 0.074      | 2,695        |41,932     | 4,746     | 0.113      |
 
-_Describe the corpus? Link to an article about the corpus?_ 
+The FCE Corpus was released in 2011 along with [this ACL publication](https://aclanthology.org/P11-1019/) by Yannakoudakis et al.
+It contains essays by candidates for the First Certificate in English (FCE) exam (now "B2 First") designed by Cambridge English to certify learners of English at CEFR level B2.
+It is part of the larger Cambridge Learner Corpus and was annotated for grammatical errors as described in [Nicholls (2003)](https://www.academia.edu/download/43303478/CL2003_Nicholls.pdf). The FCE Corpus has been used in grammatical error detection (and correction) experiments on numerous occasions, as summarised [here](https://paperswithcode.com/dataset/fce).
+
 
 | Source corpus |  Split                    | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:--------------------------|:-----------|:-------------|:----------|:----------|:-----------|
@@ -111,7 +114,7 @@ _Describe the corpus? Link to an article about the corpus?_
 |               | • de-test.tsv      | 0.096      | 2,337        |36,577     | 6,202     | 0.170      |
 
 
-The dataset split used here is described in [Boyed (2018)](https://aclanthology.org/W18-6111.pdf) and has been published [here](https://github.com/adrianeboyd/boyd-wnut2018).
+The dataset split used here is described in [Boyd (2018)](https://aclanthology.org/W18-6111.pdf) and has been published [here](https://github.com/adrianeboyd/boyd-wnut2018).
 
 Further information on Merlin can be found in [Boyd et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/606_Paper.pdf) and  on the [Merlin platform](https://www.merlin-platform.eu/). For Falko, please refer to the Falko website [here](https://hu-berlin.de/falko).
 
@@ -245,4 +248,5 @@ This is a google group which you can join, ask questions, hold discussions and b
 * Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue.
 * Adriane Boyd, Jirka Hana, Lionel Nicolas, Detmar Meurers, Katrin Wisniewski, Andrea Abel, Karin Schöne, Barbora Štindlová, and Chiara Vettori (2014). The MERLIN corpus: Learner language and the CEFR. Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14), pp. 1281-1288.
 * Adriane Boyd (2018). Using Wikipedia edits in low resource grammatical error correction. Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text, pp. 79-84. 
+* Helen Yannakoudakis, Ted Briscoe, and Ben Medlock (2011). A New Dataset and Method for Automatically Grading ESOL Texts. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, pages 180–189.
 
