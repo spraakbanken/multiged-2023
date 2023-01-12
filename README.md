@@ -4,65 +4,69 @@ The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group inv
 
 The results will be presented on May, 22, 2023, at the NLP4CALL workshop, colocated with the [NODALIDA conference](https://www.nodalida2023.fo/) to be held in the Faroe Islands. 
 
-To register, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
+To register for/express interest in the shared task, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
+
+To get information and updates about the shared task, please register for the google group < multiged-2023 @ googlegroups . com >
+
+CodaLab page for the competition: 
 
 ## Task description
 
 In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification at the token level, as shown in the example below.
 
-| Token ID |  Token   | Label |
-|:---------|:---------|:------|
-| 1        |  I       | c     |
-| 2        |  saws    | **i** |
-| 3        |  the     | c     |
-| 4        |  show    | c     |
-| 5        |  's      | c     |
-| 6        |  advertisement | c  |
-| 7        |  hanging | c     |
-| 8        |  up      | c     |
-| 9        |  of      | **i** |
-| 10       |  a       | c     |
-| 11       |  wall    | c     |
-| 12       |  in      | c     |
-| 13       |  London  | c     |
+|  Token   | Label |
+|:---------|:------|
+|  I       | c     |
+|  saws    | **i** |
+|  the     | c     |
+|  show    | c     |
+|  's      | c     |
+|  advertisement | c  |
+|  hanging | c     |
+|  up      | c     |
+|  of      | **i** |
+|  a       | c     |
+|  wall    | c     |
+|  in      | c     |
+|  London  | c     |
 
 
 ## Tracks
 
-There is one track only, although results will be collected and compared by each individual language. When submitting your results, please use ISO 639‑1 **language prefixes** to indicate which language your system was developed for and should be tested on. 
+There is one track only, although results will be collected and compared by each individual language. When submitting your results, please use ISO 639‑1 **language codes** to indicate which language your system was developed for and should be tested on. 
 
-* **cs-** for Czech
-* **en-** for English
-* **de-** for German
-* **it-** for Italian
-* **sv-** for Swedish
+* **cs** -- for Czech
+* **en** -- for English
+* **de** -- for German
+* **it** -- for Italian
+* **sv** -- for Swedish
 
-It is possible, but not mandatory, to develop systems for each of the included languages. 
+We encourage systems that can work on all languages, although this is not mandatory. 
 
 
 ## Data
 
 For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same data splits (e.g. Czech, English-FCE, German).
 
-Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus). **--Any others that are new?**
+Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus).
 
 The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that there are no column headers.
 
-You are welcome to use the provided datasets across languages and mix them as you see fit **(any better way of saying that?)**
+You are welcome to use the provided datasets as you see fit. 
 
-You can download the datasets from the links below. **--Should we link the datasets to the file names in the tables below (except text, of course)?** AC: I would say that there are training and validation (or 'dev' if we rename it) folders in this repository. So the easiest thing is for people to clone the whole repo.
+You can download the datasets from the language-specific repositories/folders.
 
 
 ### Data licenses
 
 | Language |  Corpus name | Corpus license | MultiGED license | 
 |:---------|:-------------|:---------------|:------------------|
-| Czech    | GECCC        | CC BY-SA 4.0   |                   |
-| English  | FCE          | [custom](https://ilexir.co.uk/datasets/index.html)  |                   |
+| Czech    | GECCC        | CC BY-SA 4.0   | CC BY-SA 4.0      |
+| English  | FCE          | [custom](https://ilexir.co.uk/datasets/index.html)  | [custom](https://ilexir.co.uk/datasets/index.html) |
 |          | REALEC       |                |                   |
-| German   | Falko        | CC BY-SA 4.0   |                   |
-|          | MERLIN       | CC BY 3.0      |                   |
-| Italian  | MERLIN       | CC BY 3.0      |                   |
+| German   | Falko        | CC BY-SA 4.0   | CC BY-SA 4.0      |
+|          | MERLIN       | CC BY 3.0      | CC BY 3.0         |
+| Italian  | MERLIN       | CC BY 3.0      | CC BY 3.0         |
 | Swedish  | SweLL-gold   | [CLARIN-ID, -PRIV, -NORED, -BY](https://www.kielipankki.fi/support/clarin-eula/#res)| CC BY 4.0   |
 
 
@@ -151,19 +155,16 @@ The Swedish MultiGED dataset is based on the SweLL-gold corpus that contains ess
 
 ## Use of external data
 
-We encourage you to use any external data of your choice, provided you describe it and - where possible - share with the community for potential replication studies.  **CB: I would say participants can use any data they wish, provided it is publicly available for research purposes.**
+We encourage you to use any external data of your choice, provided it is publicly available for research purposes.
 
-You can also prepare your own synthetic datasets, which we also encourage you to share with the community. 
+You can also prepare your own synthetic datasets, which we encourage you to share with the community. 
 
-Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" **-- SHOULD we allow this???** AC: yes good idea; if people find any data problems we'll need to remember to announce it on the google group (that there's a new version of the data).
+Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests". Any changes to the data will be announced on the google group < multiged - 2023 @ googlegroups . com > (e.g. that there's a new version of the data).
 
 
 ## Test data
 
-The final model will be evaluated on a hidden test set. We will release test files per language to the registered participants by the end of February 2023. Please fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6) to register for participation.
-
-**IS THIS CORRECT, Orphee?**
-
+The final model will be evaluated on a hidden test set. We will release test files per language to the registered participants by the end of February 2023. 
 
 ## Evaluation 
 
@@ -188,7 +189,7 @@ F0.5 is used instead of F1 because humans judge false positives more harshly tha
 
 ### Evaluation script
 
-The provided `eval.py` script calculates system performance from input CoNLL-format Hypothesis and Reference tab-separated files. This script is used to evaluate any output submitted to [Codalab]() (development/test data), but you can also download it and use it independently. The script is run from the command line as follows:  **Orphee to add Codalab link!**
+The provided `eval.py` script calculates system performance from input CoNLL-format Hypothesis and Reference tab-separated files. This script is used to evaluate any output submitted to [Codalab]() (development/test data), but you can also download it and use it independently. The script is run from the command line as follows:
 
 `python3 eval.py -hyp <hyp_tsv> -ref <ref_tsv>`
 
@@ -197,14 +198,14 @@ It is assumed that the `hyp_tsv` file is in the same format as the equivlanet `r
 
 ## System submissions
 
-All system submissions will be administered through CodaLab.
+All system submissions will be administered through CodaLab. **LINK to CodaLab!**
 
-Further insructions .... **Orphee?**
+See CodaLab for further insructions.
 
 
 ## Publication
 
-We encourage you to submit a paper with your system description to the NLP4CALL workshop special track. All papers will be reviewed by the organizing committee. **Is this right?** AC: yes we'll have to review them fairly quickly as a group effort, unlikely we'll reject any papers, but we should be clear what we expect in terms of minimum requirements for a decent paper in this context.
+We encourage you to submit a paper with your system description to the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2023) special track. We follow the same requirements for paper submissions as [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2023), i.e. we use the same template and apply the same page limit. All papers will be reviewed by the organizing committee. 
 
 Accepted papers will be published in the workshop proceedings through NEALT Proceedings Series and double-published through the ACL anthology. 
 
@@ -213,19 +214,15 @@ Further instructions on this will follow.
 
 ## Timeline
 
-* ≈ mid-January 2022 - first call for participation. Training data released, CodaLab opens for team registrations.
-* ≈ mid-February 2023 - validation server released online
-* ≈ end of February 2023 - test data released
-* ≈ 5 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
-* ≈ mid-March 2023 - results announced
-* ≈ 8-10 April 2023 - paper submission deadline (system descriptions)
-* ≈ end April 2023 - paper reviews sent to the authors
-* ≈ 10 May 2023 - camera-ready deadline
-* 22 May 2023 - presentations of the systems at NLP4CALL workshop 
+* 16 January 2023 - first call for participation. Training and validation data released, CodaLab opens for team registrations.
+* 27 February 2023 - test data released
+* 6 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
+* 13 March 2023 - results announced
+* 10 April 2023 - paper submission deadline (system descriptions)
+* 28 April 2023 - paper reviews sent to the authors
+10 May 2023 - camera-ready deadline
+22 May 2023 - presentations of the systems at NLP4CALL workshop 
 
-## Registration for the task
-
-Teams that intend to participate, are requested to fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6). 
 
 ## Organizers
 
