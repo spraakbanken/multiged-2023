@@ -233,7 +233,7 @@ Further instructions on this will follow.
 * [Jennifer-Carmen Frey](https://www.eurac.edu/en/people/jennifer-carmen-frey), EURAC Research, Italy
 * Elizaveta Ershova, JetBrains, Cyprus
 * [Alexandr Rosen](http://utkl.ff.cuni.cz/~rosen/), Charles University, Czech Republic
-* Olga Vinogradova, Israel 
+* Olga Vinogradova, Independent researcher, Israel 
 
 ## Contact information and forum for discussions
 
