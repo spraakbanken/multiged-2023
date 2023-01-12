@@ -63,7 +63,7 @@ You can download the datasets from the links below. **--Should we link the datas
 | German   | Falko        | CC BY-SA 4.0   |                   |
 |          | MERLIN       | CC BY 3.0      |                   |
 | Italian  | MERLIN       | CC BY 3.0      |                   |
-| Swedish  | SweLL-gold   | [CLARIN-ID, -PRIV, -NORED, -BY](https://www.kielipankki.fi/support/clarin-eula/#res)|                   |
+| Swedish  | SweLL-gold   | [CLARIN-ID, -PRIV, -NORED, -BY](https://www.kielipankki.fi/support/clarin-eula/#res)| CC BY 4.0   |
 
 
 ### Czech
@@ -71,9 +71,9 @@ You can download the datasets from the links below. **--Should we link the datas
 | Source corpus |  Split             | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:-------------------|:-----------|:-------------|:----------|:----------|:-----------|
 | GECCC         | Total              | 1.0        | 35,443       |365,033    | 88,148    | 0.242      |
-|               | • [cs-train.tsv]() | 0.758      | 29,786       |303,703    | 70,993    | 0.234      |
-|               | • [cs-dev.tsv]()   | 0.073      | 2,779        |29,221     | 8,301     | 0.284      |
-|               | • cs-test.tsv      | 0.080      | 2,878        |32,109     | 8,854     | 0.276      |
+|               | • train            | 0.758      | 29,786       |303,703    | 70,993    | 0.234      |
+|               | • dev              | 0.073      | 2,779        |29,221     | 8,301     | 0.284      |
+|               | • test             | 0.080      | 2,878        |32,109     | 8,854     | 0.276      |
 
 Grammar Error Correction Corpus for Czech ([GECCC](https://arxiv.org/pdf/2201.05590.pdf)) consists of 83 058 sentences and covers four diverse domains, including essays written by native students, informal website texts, essays written by Romani ethnic minority children and teenagers and essays written by nonnative speakers. All domains are professionally annotated for GEC errors in a unified manner, and errors were automatically categorized with a Czech-specific version of the ERRor ANnotation Toolkit ([ERRANT](https://github.com/chrisjbryant/errant)), released [here](https://github.com/ufal/errant_czech). For more details see [Naplava et al. (2022)](https://arxiv.org/pdf/2201.05590.pdf).
 
@@ -85,9 +85,9 @@ There are two corpora for English: FCE and REALEC
 | Source corpus |  Split                 | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:-----------------------|:-----------|:-------------|:----------|:----------|:-----------|
 | FCE           | Total                  | 1.0        | 33,236       |561,416    | 53,607    | 0.101      |
-|               | • [en-train-fce.tsv]() | 0.805      | 28,350       |454,736    | 45,183    | 0.099      |
-|               | • [en-dev-fce.tsv]()   | 0.062      | 2,191        |34,748     | 3,678     | 0.106      |
-|               | • en-test-fce.tsv      | 0.074      | 2,695        |41,932     | 4,746     | 0.113      |
+|               | • train                | 0.805      | 28,350       |454,736    | 45,183    | 0.099      |
+|               | • dev                  | 0.062      | 2,191        |34,748     | 3,678     | 0.106      |
+|               | • test                 | 0.074      | 2,695        |41,932     | 4,746     | 0.113      |
 
 The FCE Corpus was released in 2011 along with [this ACL publication](https://aclanthology.org/P11-1019/) by Yannakoudakis et al.
 It contains essays by candidates for the First Certificate in English (FCE) exam (now "B2 First") designed by Cambridge English to certify learners of English at CEFR level B2.
@@ -97,9 +97,9 @@ It is part of the larger Cambridge Learner Corpus and was annotated for grammati
 | Source corpus |  Split                    | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:--------------------------|:-----------|:-------------|:----------|:----------|:-----------|
 | REALEC        | Total                     | 1.0        | 200,432      |4,418,696  | 290,289   | 0.069      |
-|               | • [en-train-realec.tsv]() | 0.764      | 160,594      |3,377,609  | 232,290   | 0.069      |
-|               | • [en-dev-realec.tsv]()   | 0.095      | 19,883       |419,161    | 28,995    | 0.069      |
-|               | • en-test-realec.tsv      | 0.095      | 19,955       |421,495    | 29,004    | 0.069      |
+|               | • train                   | 0.764      | 160,594      |3,377,609  | 232,290   | 0.069      |
+|               | • dev                     | 0.095      | 19,883       |419,161    | 28,995    | 0.069      |
+|               | • test                    | 0.095      | 19,955       |421,495    | 29,004    | 0.069      |
 
 _Describe the corpus? Link to an article about the corpus?_ 
 
@@ -109,9 +109,9 @@ _Describe the corpus? Link to an article about the corpus?_
 | Source corpus |  Split             | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:-------------------|:-----------|:-------------|:----------|:----------|:-----------|
 | Falko-Merlin  | Total              | 1.0        | 24,077       |381,134    | 64,054    | 0.168      |
-|               | • [de-train.tsv]() | 0.800      | 19,237       |305,113    | 51,143    | 0.168      |
-|               | • [de-dev.tsv]()   | 0.104      | 2,503        |39,444     | 6,709     | 0.170      |
-|               | • de-test.tsv      | 0.096      | 2,337        |36,577     | 6,202     | 0.170      |
+|               | • train            | 0.800      | 19,237       |305,113    | 51,143    | 0.168      |
+|               | • dev              | 0.104      | 2,503        |39,444     | 6,709     | 0.170      |
+|               | • test             | 0.096      | 2,337        |36,577     | 6,202     | 0.170      |
 
 
 The dataset split used here is described in [Boyd (2018)](https://aclanthology.org/W18-6111.pdf) and has been published [here](https://github.com/adrianeboyd/boyd-wnut2018).
@@ -126,9 +126,9 @@ Note that tokens transcribed as entirely "-unreadable-" in the Merlin corpus hav
 | Source corpus |  Split             | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:-------------------|:-----------|:-------------|:----------|:----------|:-----------|
 | Merlin        | Total              | 1.0        | 8,061        |99,693     | 13,251    | 0.133      |
-|               | • [it-train.tsv]() | 0.789      | 6,393        |78,638     | 10,376    | 0.132      |
-|               | • [it-dev.tsv]()   | 0.110      | 2,503        |11,038     | 1,429     | 0.130      |
-|               | • it-test.tsv      | 0.101      | 2,337        |10,017     | 1,446     | 0.144      |
+|               | • train            | 0.789      | 6,393        |78,638     | 10,376    | 0.132      |
+|               | • dev              | 0.110      | 2,503        |11,038     | 1,429     | 0.130      |
+|               | • test             | 0.101      | 2,337        |10,017     | 1,446     | 0.144      |
 
 
 The Merlin corpus is described in [Boyd et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/606_Paper.pdf). Further documentation can be found on the [Merlin platform](https://www.merlin-platform.eu/).
@@ -140,12 +140,13 @@ Note that tokens transcribed as entirely "-unreadable-" in the Merlin corpus hav
 
 | Source corpus |  Split             | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:-------------------|:-----------|:-------------|:----------|:----------|:-----------|
-| SweLL-gold    | Total              | 1.0        |         |     |     |       |
-|               | • [sv-train.tsv]() |       |         |     |      |       |
-|               | • [sv-dev.tsv]()   |       |         |     |      |       |
-|               | • sv-test.tsv      |       |         |     |      |       |
+| SweLL-gold    | Total              | 1.0        | 7,807        | 145,124   | 16,979    | 0.117      |
+|               | • train            | 0.753      | 6,203        | 115,188   | 13,461    | 0.117      |
+|               | • dev              | 0.106      | 861          | 16,134    | 1840      | 0.114      |
+|               | • test             | 0.090      | 743          | 13,802    | 1678      | 0.122      |
 
-The SweLL-gold corpus is described in [Volodina et al. (2019)](https://nejlt.ep.liu.se/article/view/1374) with statistics and metadata provided [here](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL). 
+
+The Swedish MultiGED dataset is based on the SweLL-gold corpus that contains essays written by adult learners of Swedish. The corpus is described in [Volodina et al. (2019)](https://nejlt.ep.liu.se/article/view/1374) with statistics and metadata provided [here](https://spraakbanken.github.io/swell-release-v1/Metadata-SweLL). 
 
 
 ## Use of external data
