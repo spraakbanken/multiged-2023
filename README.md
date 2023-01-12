@@ -8,7 +8,7 @@ To register, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
 ## Task description
 
-In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification on a token level, as shown in the example below.
+In this shared task your goal is to detect tokens in need of correction, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification at the token level, as shown in the example below.
 
 | Token ID |  Token   | Label |
 |:---------|:---------|:------|
