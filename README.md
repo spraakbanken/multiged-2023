@@ -63,7 +63,7 @@ You can download the datasets from the links below. **--Should we link the datas
 | German   | Falko        | CC BY-SA 4.0   |                   |
 |          | MERLIN       | CC BY 3.0      |                   |
 | Italian  | MERLIN       | CC BY 3.0      |                   |
-| Swedish  | SweLL-gold   |                |                   |
+| Swedish  | SweLL-gold   | [CLARIN-ID, -PRIV, -NORED, -BY](https://www.kielipankki.fi/support/clarin-eula/#res)|                   |
 
 
 ### Czech
