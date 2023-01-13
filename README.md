@@ -8,7 +8,7 @@ To register for/express interest in the shared task, fill in [this form](https:/
 
 To get information and updates about the shared task, please register for the [MultiGED-2023 Google Group](https://groups.google.com/g/multiged-2023)
 
-CodaLab page for the competition: 
+CodaLab page for the competition: **ADD**
 
 ## Task description
 
