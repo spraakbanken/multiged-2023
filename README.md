@@ -189,7 +189,7 @@ F0.5 is used instead of F1 because humans judge false positives more harshly tha
 
 ### Evaluation script
 
-The provided `eval.py` script calculates system performance from input CoNLL-format Hypothesis and Reference tab-separated files. This script is used to evaluate any output submitted to [Codalab]() (development/test data), but you can also download it and use it independently. The script is run from the command line as follows:
+The provided `eval.py` script calculates system performance from input CoNLL-format Hypothesis and Reference tab-separated files. This script is used to evaluate any output submitted to [CodaLab]() (development/test data), but you can also download it and use it independently. The script is run from the command line as follows:
 
 `python3 eval.py -hyp <hyp_tsv> -ref <ref_tsv>`
 
