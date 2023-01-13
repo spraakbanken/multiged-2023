@@ -6,7 +6,7 @@ The results will be presented on May, 22, 2023, at the NLP4CALL workshop, coloca
 
 To register for/express interest in the shared task, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
-To get information and updates about the shared task, please register for the google group < multiged-2023 @ googlegroups . com >
+To get information and updates about the shared task, please register for the [MultiGED-2023 Google Group](https://groups.google.com/g/multiged-2023)
 
 CodaLab page for the competition: 
 
@@ -48,7 +48,7 @@ We encourage systems that can work on all languages, although this is not mandat
 
 For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same data splits (e.g. Czech, English-FCE, German).
 
-Two new datasets are introduced in this shared task: one for Swedish (based on SweLL-gold corpus) and another for English (based on REALEC corpus).
+Two new datasets are introduced in this shared task: one for Swedish (based on the SweLL-gold corpus) and another for English (based on the REALEC corpus).
 
 The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that there are no column headers.
 
@@ -100,10 +100,10 @@ It is part of the larger Cambridge Learner Corpus and was annotated for grammati
 
 | Source corpus |  Split                    | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:--------------------------|:-----------|:-------------|:----------|:----------|:-----------|
-| REALEC        | Total                     | 1.0        | 200,432      |4,418,696  | 290,289   | 0.069      |
-|               | • train                   | 0.764      | 160,594      |3,377,609  | 232,290   | 0.069      |
-|               | • dev                     | 0.095      | 19,883       |419,161    | 28,995    | 0.069      |
-|               | • test                    | 0.095      | 19,955       |421,495    | 29,004    | 0.069      |
+| REALEC        | Total                     | 1.0        | 200,432      | 4,218,265  | 290,289   | 0.069      |
+|               | • train                   | 0.980      | 196,365      | 4,131,899  | 284,278   | 0.069      |
+|               | • dev                     | 0.010      | 2,049       | 44,086    | 3,053    | 0.069      |
+|               | • test                    | 0.010      | 2,018       | 42,280    | 2,958    | 0.070      |
 
 _Describe the corpus? Link to an article about the corpus?_ 
 
@@ -159,7 +159,7 @@ We encourage you to use any external data of your choice, provided it is publicl
 
 You can also prepare your own synthetic datasets, which we encourage you to share with the community. 
 
-Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests". Any changes to the data will be announced on the google group < multiged - 2023 @ googlegroups . com > (e.g. that there's a new version of the data).
+Besides, you are welcome to report any errors/problems with the datasets using "issues"/"pull requests" (use the former for questions or comments; the latter if you are confident how to correct the problem). Any changes to the data will be announced via the [MultiGED-2023 Google Group](https://groups.google.com/g/multiged-2023) (so please join it!).
 
 
 ## Test data
@@ -237,9 +237,7 @@ Further instructions on this will follow.
 
 ## Contact information and forum for discussions
 
-Mail your questions to: < multiged - 2023 @ googlegroups . com >
-
-This is a google group which you can join, ask questions, hold discussions and browse for already answered questions.
+Please join the [MultiGED-2023 google group](https://groups.google.com/g/multiged-2023) in order to ask questions, hold discussions and browse for already answered questions.
 
 ## References
 
