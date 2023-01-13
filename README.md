@@ -50,7 +50,7 @@ For each of the languages we use a corpus of second language learner essays as a
 
 Two new datasets are introduced in this shared task: one for Swedish (based on the SweLL-gold corpus) and another for English (based on the REALEC corpus).
 
-The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that there are no column headers.
+The data is organized in tab-separated columns, with one token per line; each sentence is separated by an empty line. The first column contains the tokens, the second column contains the grammatical error label (c or i). Note that there are no column headers, and that speech marks are escaped with a preceding backslash like this: `\"`
 
 You are welcome to use the provided datasets as you see fit. 
 
