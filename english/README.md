@@ -20,10 +20,10 @@ It is part of the larger Cambridge Learner Corpus and was annotated for grammati
 
 | Source corpus |  Split                    | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:--------------------------|:-----------|:-------------|:----------|:----------|:-----------|
-| REALEC        | Total                     | 1.0        | 200,432      |4,418,696  | 290,289   | 0.069      |
-|               | • train                   | 0.764      | 160,594      |3,377,609  | 232,290   | 0.069      |
-|               | • dev                     | 0.095      | 19,883       |419,161    | 28,995    | 0.069      |
-|               | • test                    | 0.095      | 19,955       |421,495    | 29,004    | 0.069      |
+| REALEC        | Total                     | 1.0        | 200,432      | 4,218,265  | 290,289   | 0.069      |
+|               | • train                   | 0.980      | 196,365      | 4,131,899  | 284,278   | 0.069      |
+|               | • dev                     | 0.010      | 2,049       | 44,086    | 3,053    | 0.069      |
+|               | • test                    | 0.010      | 2,018       | 42,280    | 2,958    | 0.070      |
 
 Note that the training set is compressed to bring it down under GitHub's current file size limit (25MB).
 
