@@ -46,7 +46,7 @@ We encourage systems that can work on all languages, although this is not mandat
 
 ## Data
 
-For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same data splits (e.g. Czech, English-FCE, German).
+For each of the languages we use a corpus of second language learner essays as a source. For datasets that have been previously used for similar tasks (GED/GEC), we follow the same train/dev/test data splits (e.g. Czech, English-FCE, German). For those corpora without pre-defined data splits (namely REALEC, SweLL and MERLIN Italian) we have randomly assigned sentences to train/dev/test splits of approximately 80/10/10%, except for REALEC which we have split 98/1/1% owing to its size (so that the dev and test sets are similarly sized across corpora).
 
 Two new datasets are introduced in this shared task: one for Swedish (based on the SweLL-gold corpus) and another for English (based on the REALEC corpus).
 
