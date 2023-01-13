@@ -193,7 +193,7 @@ The provided `eval.py` script calculates system performance from input CoNLL-for
 
 `python3 eval.py -hyp <hyp_tsv> -ref <ref_tsv>`
 
-It is assumed that the `hyp_tsv` file is in the same format as the equivlanet `ref_tsv` file provided in this shared task. The script processes a single language at a time, so you will need to call it several times to evaluate multiple languages.  
+It is assumed that the `hyp_tsv` file is in the same format as the equivalent `ref_tsv` file provided in this shared task. The script processes a single language at a time, so you will need to call it several times to evaluate multiple languages.  
 
 
 ## System submissions
@@ -216,12 +216,12 @@ Further instructions on this will follow.
 
 * 16 January 2023 - first call for participation. Training and validation data released, CodaLab opens for team registrations.
 * 27 February 2023 - test data released
-* 6 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
-* 13 March 2023 - results announced
-* 10 April 2023 - paper submission deadline (system descriptions)
-* 28 April 2023 - paper reviews sent to the authors
-10 May 2023 - camera-ready deadline
-22 May 2023 - presentations of the systems at NLP4CALL workshop 
+* 3 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
+* 10 March 2023 - results announced
+* 7 April 2023 - paper submission deadline (system descriptions)
+* 21 April 2023 - paper reviews sent to the authors
+* 01 May 2023 - camera-ready deadline
+* 22 May 2023 - presentations of the systems at NLP4CALL workshop 
 
 
 ## Organizers
