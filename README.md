@@ -2,7 +2,7 @@
 
 The [Computational SLA](https://spraakbanken.gu.se/en/compsla) working group invites you to participate in the first shared task on Multilingual Grammatical Error Detection, **MultiGED**, which includes five languages: Czech, English, German, Italian and Swedish.
 
-The results will be presented on May, 22, 2023, at the NLP4CALL workshop, colocated with the [NODALIDA conference](https://www.nodalida2023.fo/) to be held in the Faroe Islands. 
+The results will be presented on May, 22, 2023, at the [NLP4CALL workshop](https://spraakbanken.gu.se/en/research/themes/icall/nlp4call-workshop-series/nlp4call2023), colocated with the [NODALIDA conference](https://www.nodalida2023.fo/) to be held in the Faroe Islands. 
 
 To register for/express interest in the shared task, fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).
 
