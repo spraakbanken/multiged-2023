@@ -63,7 +63,7 @@ You can download the datasets from the language-specific repositories/folders.
 |:---------|:-------------|:---------------|:------------------|
 | Czech    | GECCC        | CC BY-SA 4.0   | CC BY-SA 4.0      |
 | English  | FCE          | [custom](https://ilexir.co.uk/datasets/index.html)  | [custom](https://ilexir.co.uk/datasets/index.html) |
-|          | REALEC       |                |                   |
+|          | REALEC       | CC BY-SA 4.0   | CC BY-SA 4.0      |
 | German   | Falko        | CC BY-SA 4.0   | CC BY-SA 4.0      |
 |          | MERLIN       | CC BY 3.0      | CC BY 3.0         |
 | Italian  | MERLIN       | CC BY 3.0      | CC BY 3.0         |
@@ -105,7 +105,7 @@ It is part of the larger Cambridge Learner Corpus and was annotated for grammati
 |               | • dev                     | 0.010      | 2,049       | 44,086    | 3,053    | 0.069      |
 |               | • test                    | 0.010      | 2,018       | 42,280    | 2,958    | 0.070      |
 
-_Describe the corpus? Link to an article about the corpus?_ 
+ Russian Error-Annotated Learner English Corpus (REALEC) is in the open access at the HSE university portal1.Essays written by HSE students in the Independent English Language Test over the years 2014-2020 by 2022 make up about 18,700 texts written in answer to two types of tasks (approximately 4,336,000 words). Initially, we were able to annotate errors in those essays manually. A team of specially trained Linguistics undergraduate students proficient in English annotated about 6,000 essays between 2014 and 2019. However, later, REALEC started receiving a much larger number of texts, so in 2020 manual annotation was replaced with a BERT-transformer-type neural network for both identification and correction of errors.
 
 
 ### German
