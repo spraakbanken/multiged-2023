@@ -218,7 +218,7 @@ Further instructions on this will follow.
 * 27 February 2023 - test data released
 * 3 March 2023 - system submission deadline (system output, models, code, fact sheets, extra data, etc)
 * 10 March 2023 - results announced
-* 7 April 2023 - paper submission deadline (system descriptions)
+* 6 April 2023 - paper submission deadline (system descriptions)
 * 21 April 2023 - paper reviews sent to the authors
 * 01 May 2023 - camera-ready deadline
 * 22 May 2023 - presentations of the systems at NLP4CALL workshop 
