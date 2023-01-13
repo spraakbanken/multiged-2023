@@ -25,6 +25,6 @@ It is part of the larger Cambridge Learner Corpus and was annotated for grammati
 |               | • dev                     | 0.095      | 19,883       |419,161    | 28,995    | 0.069      |
 |               | • test                    | 0.095      | 19,955       |421,495    | 29,004    | 0.069      |
 
-
+Note that the training set is compressed to bring it down under GitHub's current file size limit (25MB).
 
 
