@@ -11,12 +11,9 @@ There are two corpora for English: FCE and REALEC
 |               | • dev                  | 0.062      | 2,191        |34,748     | 3,678     | 0.106      |
 |               | • test                 | 0.074      | 2,695        |41,932     | 4,746     | 0.113      |
 
-The FCE Corpus was released in 2011 along with [this ACL publication](https://aclanthology.org/P11-1019/) by Yannakoudakis et al.
-It contains essays by candidates for the First Certificate in English (FCE) exam (now "B2 First") designed by Cambridge English to certify learners of English at CEFR level B2.
-It is part of the larger Cambridge Learner Corpus and was annotated for grammatical errors as described in [Nicholls (2003)](https://www.academia.edu/download/43303478/CL2003_Nicholls.pdf). The FCE Corpus has been used in grammatical error detection (and correction) experiments on numerous occasions, as summarised [here](https://paperswithcode.com/dataset/fce).
+The FCE Corpus ([Yannakoudakis et al., 2011](https://aclanthology.org/P11-1019/)) consists of essays written by candidates for the First Certificate in English (FCE) exam (now "B2 First") designed by Cambridge English to certify learners of English at CEFR level B2. It is part of the larger Cambridge Learner Corpus that was annotated for grammatical errors ([Nicholls, 2003](https://www.academia.edu/download/43303478/CL2003_Nicholls.pdf)). The FCE Corpus has been used in grammatical error detection (and correction) experiments on numerous occasions, as summarised [here](https://paperswithcode.com/dataset/fce).
 
 ### REALEC
-
 
 | Source corpus |  Split                    | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:--------------------------|:-----------|:-------------|:----------|:----------|:-----------|
@@ -25,9 +22,8 @@ It is part of the larger Cambridge Learner Corpus and was annotated for grammati
 |               | • dev                     | 0.010      | 2,049       | 44,086    | 3,053    | 0.069      |
 |               | • test                    | 0.010      | 2,018       | 42,280    | 2,958    | 0.070      |
 
-Russian Error-Annotated Learner English Corpus (REALEC) is in the open access at the HSE university [portal](https://realec.org/index.xhtml#/exam/). Essays written by HSE students in the Independent English Language Test over the years 2014-2020 by 2022 make up about 18,700 texts written in answer to two types of tasks (approximately 4,336,000 words). Initially, we were able to annotate errors in those essays manually. A team of specially trained Linguistics undergraduate students proficient in English annotated about 6,000 essays between 2014 and 2019. However, later, REALEC started receiving a much larger number of texts, so in 2020 manual annotation was replaced with a BERT-transformer-type neural network for both identification and correction of errors.
+The [Russian Error-Annotated Learner English Corpus (REALEC)](https://realec.org/index.xhtml#/exam/) is an open access corpus available from HSE university. It contains approximately 18,700 texts written by HSE students in the Independent English Language Test between 2014-2020 in response to two types of tasks (approximately 4,336,000 words). A team of specially trained Linguistics undergraduate students proficient in English annotated about 6,000 essays between 2014 and 2019, but when a much larger volume of texts began to be submitted to REALEC in 2020, manual annotation was replaced with a BERT-transformer-type neural network for both identification and correction of errors.
 
-
-Note that the training set is compressed to bring it down under GitHub's current file size limit (25MB).
+Since REALEC is much larger than the other corpora in MultiGED-2023, we decided upon a 98/1/1 train/dev/text split in order to create a development and test set that was similar in size to other corpora. Note also that because of its size, the REALEC training set is compressed to bring it below GitHub's maximum file size limit (25MB). 
 
 
