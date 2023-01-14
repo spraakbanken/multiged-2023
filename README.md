@@ -115,12 +115,3 @@ Further instructions on this will follow.
 ## Contact information and forum for discussions
 
 Please join the [MultiGED-2023 google group](https://groups.google.com/g/multiged-2023) in order to ask questions, hold discussions and browse for already answered questions.
-
-## References
-
-* Adriane Boyd (2018). Using Wikipedia edits in low resource grammatical error correction. Proceedings of the 2018 EMNLP Workshop W-NUT: The 4th Workshop on Noisy User-generated Text, pp. 79-84. 
-* Adriane Boyd, Jirka Hana, Lionel Nicolas, Detmar Meurers, Katrin Wisniewski, Andrea Abel, Karin Schöne, Barbora Štindlová, and Chiara Vettori (2014). The MERLIN corpus: Learner language and the CEFR. Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14), pp. 1281-1288.
-* Jakub Náplava, Milan Straka, Jana Straková and Alexandr Rosen (2022). Czech Grammar Error Correction with a Large and Diverse Corpus. Transactions of the Association for Computational Linguistics 10 (2022), pp. 452–467.
-* Elena Volodina, Lena Granstedt, Arild Matsson, Beáta Megyesi, Ildikó Pilán, Julia Prentice, Dan Rosén, Lisa Rudebeck, Carl-Johan Schenström, Gunlög Sundberg and Mats Wirén (2019). The SweLL Language Learner Corpus: From Design to Annotation. Northern European Journal of Language Technology, Special Issue.
-* Helen Yannakoudakis, Ted Briscoe, and Ben Medlock (2011). A New Dataset and Method for Automatically Grading ESOL Texts. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, pages 180–189.
-
