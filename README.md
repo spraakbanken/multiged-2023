@@ -64,15 +64,45 @@ Evaluation will be carried out in terms of token-based Precision, Recall and F0.
 
 Example:  
 
-|  Token   | Reference | Hypothesis | Meaning
-|:---------|:----------|:-----------|:--------|
-|  I       | c         | c          |         |
-|  saws    | i         | i          | True Positive |
-|  the     | c         | c          |         |
-|  show    | c         | i          | False Positive |
-|  last    | c         | c          |         |
-|  nigt    | i         | c          | False Negative |
-|  .       | c         | c          |         |
+<table>
+<tr><th>Hypothesis</th><th>Reference</th><th>Meaning</th></tr>
+<tr><td>
+
+|  Token   | Label |
+|:---------|:------|
+|  I       | c     |
+|  saws    | i     |
+|  the     | c     |
+|  show    | i     |
+|  last    | c     |
+|  nigt    | c     |
+|  .       | c     |
+
+</td><td>
+
+|  Token   | Label |
+|:---------|:------|
+|  I       | c     |
+|  saws    | i     |
+|  the     | c     |
+|  show    | c     |
+|  last    | c     |
+|  nigt    | i     |
+|  .       | c     |
+
+</td><td>
+
+|  Meaning   |
+|:---------|
+| - |
+|  True Positive   |
+| - |
+|  False Positive  |
+| - |
+|  False Negative  |
+| - |
+
+</td></tr></table>
 
 F0.5 is used instead of F1 because humans judge false positives more harshly than false negatives and so precision is more important than recall.  
 
