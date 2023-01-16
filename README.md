@@ -133,7 +133,7 @@ Further instructions on this will follow.
 
 ## Organizers
 
-* [Elena V\olodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden
+* [Elena Volodina](https://spraakbanken.gu.se/en/about/staff/elena), University of Gothenburg, Sweden
 * [Chris Bryant](https://www.cst.cam.ac.uk/people/cjb255), University of Cambridge, UK
 * [Andrew Caines](https://www.cl.cam.ac.uk/~apc38/), University of Cambridge, UK
 * [Orphee De Clercq](https://research.flw.ugent.be/nl/orphee.declercq), Ghent University, Belgium
