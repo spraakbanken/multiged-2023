@@ -15,15 +15,5 @@ The FCE Corpus ([Yannakoudakis et al., 2011](https://aclanthology.org/P11-1019/)
 
 ### REALEC
 
-| Source corpus |  Split                    | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
-|:--------------|:--------------------------|:-----------|:-------------|:----------|:----------|:-----------|
-| REALEC        | Total                     | 1.0        | 200,432      | 4,218,265  | 290,289   | 0.069      |
-|               | • train                   | 0.980      | 196,365      | 4,131,899  | 284,278   | 0.069      |
-|               | • dev                     | 0.010      | 2,049       | 44,086    | 3,053    | 0.069      |
-|               | • test                    | 0.010      | 2,018       | 42,280    | 2,958    | 0.070      |
 
-The [Russian Error-Annotated Learner English Corpus (REALEC)](https://realec.org/index.xhtml#/exam/) is an open access corpus available from HSE university. It contains approximately 18,700 texts written by HSE students in the Independent English Language Test between 2014-2020 in response to two types of tasks (approximately 4,336,000 words). A team of specially trained Linguistics undergraduate students proficient in English annotated about 6,000 essays between 2014 and 2019, but when a much larger volume of texts began to be submitted to REALEC in 2020, manual annotation was replaced with a BERT-transformer-type neural network for both identification and correction of errors.
-
-Since REALEC is much larger than the other corpora in MultiGED-2023, we decided upon a 98/1/1 train/dev/text split in order to create a development and test set that was similar in size to other corpora. Note also that because of its size, the REALEC training set is compressed to bring it below GitHub's maximum file size limit (25MB). 
-
-
+The [Russian Error-Annotated Learner English Corpus (REALEC)](https://realec.org/index.xhtml#/exam/) is an open access corpus available from HSE university. It contains approximately 18,700 texts written by HSE students in the Independent English Language Test between 2014-2020 in response to two types of tasks (approximately 4,336,000 words). A team of specially trained Linguistics undergraduate students proficient in English annotated about 6,000 essays between 2014 and 2019, and when a much larger volume of texts began to be submitted to REALEC in 2020, manual annotation was replaced with a BERT-transformer-type neural network for both identification and correction of errors. In this shared task, we are releasing only the manually annotated essays. The train and dev splits will be published asap: we are finalising them. Please watch this space, or sign up to our [google group](https://groups.google.com/g/multiged-2023) for announcements!
