@@ -6,7 +6,7 @@ The results will be presented on 22nd May, 2023, at the [NLP4CALL workshop](http
 
 To register for/express interest in the shared task, please fill in [this form](https://forms.gle/DgwTNmTCQhsmrbxq6).   
 To get important information and updates about the shared task, please join the [MultiGED-2023 Google Group](https://groups.google.com/g/multiged-2023).   
-Official system evaluation will be carried out on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/9515).  
+Official system evaluation will be carried out on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9784).  
 
 ## Task description
 
@@ -118,7 +118,7 @@ Example:
 
 F0.5 is used instead of F1 because humans judge false positives more harshly than false negatives and so precision is more important than recall.  
 
-Although official evaluation will be carried out on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/9515), we include our evaluation script in this repository, `eval.py`, which can be used to evaluate system performance independently. This script can be run from the command line as follows:
+Although official evaluation will be carried out on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9784), we include our evaluation script in this repository, `eval.py`, which can be used to evaluate system performance independently. This script can be run from the command line as follows:
 
 `python3 eval.py -hyp <hyp_tsv> -ref <ref_tsv>`
 
