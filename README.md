@@ -134,7 +134,7 @@ Further instructions on this will follow.
 
 ## Timeline
 
-* 16 January, 2023 - first call for participation. Training and validation data released, CodaLab opens for team registrations.
+* 23 January, 2023 - first call for participation. Training and validation data released, CodaLab opens for team registrations.
 * 27 February, 2023 - test data released
 * 03 March, 2023 - system submission deadline (system output)
 * 10 March, 2023 - results announced
