@@ -21,10 +21,10 @@ def main():
             hyp_info = hyp_info.split("\t")
             ref_info = ref_info.split("\t")
             # Make sure this is the same token in both files
-            assert hyp_info[1] == ref_info[1]
+            assert hyp_info[0] == ref_info[0]
             # Get the hyp label and ref label
-            hyp_label = hyp_info[2]
-            ref_label = ref_info[2]
+            hyp_label = hyp_info[1]
+            ref_label = ref_info[1]
             # True Positive
             if hyp_label == ref_label == lname: tp += 1
             # Non-matching labels
