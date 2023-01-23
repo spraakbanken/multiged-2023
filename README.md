@@ -66,8 +66,8 @@ Participants may use additional resources to build their systems *provided that 
 | English  | FCE          | [custom](https://ilexir.co.uk/datasets/index.html)  | [custom](https://ilexir.co.uk/datasets/index.html) |
 |          | REALEC       | CC BY-SA 4.0   | CC BY-SA 4.0      |
 | German   | Falko        | CC BY-SA 4.0   | CC BY-SA 4.0      |
-|          | MERLIN       | CC BY-SA 4.0      | CC BY 3.0         |
-| Italian  | MERLIN       | CC BY-SA 4.0      | CC BY 3.0         |
+|          | MERLIN       | CC BY-SA 4.0      | CC BY-SA 4.0         |
+| Italian  | MERLIN       | CC BY-SA 4.0      | CC BY-SA 4.0         |
 | Swedish  | SweLL-gold   | [CLARIN-ID, -PRIV, -NORED, -BY](https://www.kielipankki.fi/support/clarin-eula/#res)| CC BY 4.0   |
 
 ## Evaluation 
