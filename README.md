@@ -43,11 +43,12 @@ Please let us know if you find any errors/inconsistencies in a dataset by submit
 |:--------------|:-------------------|:-------------|:----------|:----------|:-----------|
 | GECCC         | Total              | 35,443       |365,033    | 88,148    | 0.242      |
 | FCE           | Total              | 33,236       |531,416    | 53,607    | 0.101      |
-| REALEC        | Total              | tbc      | tbc | tbc   | tbc     |
+| REALEC*        | Total              | 8136         |177,769    | 20,159    | 0.113      |
 | Falko-MERLIN  | Total              | 24,077       |381,134    | 64,054    | 0.168      |
 | MERLIN        | Total              | 8,061        | 102,807   | 15,475    | 0.151      |
 | SweLL-gold    | Total              | 8,554        | 145,525   | 27,291    |	0.188      |
 
+\* dev and test sets only
 
 
 ### Data Format
