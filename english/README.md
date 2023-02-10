@@ -1,6 +1,6 @@
 ## English data
 
-There are two corpora for English: FCE and REALEC
+There are two corpora for English: FCE and REALEC. Note that for REALEC we are releasing a dev and test set only (no train set).
 
 ### FCE
 
