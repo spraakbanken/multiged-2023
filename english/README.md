@@ -15,7 +15,11 @@ The FCE Corpus ([Yannakoudakis et al., 2011](https://aclanthology.org/P11-1019/)
 
 ### REALEC
 
+| Source corpus |  Split                 | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
+|:--------------|:-----------------------|:-----------|:-------------|:----------|:----------|:-----------|
+| REALEC        | Total                  | 1.0        | 8136         |177,769    | 20,159    | 0.113      |
+|               | • train                | n/a        | n/a          |n/a        | n/a       | n/a      |
+|               | • dev                  | 0.5        | 4067         |88,008     | 9856      | 0.112      |
+|               | • test                 | 0.5        | 4069         |89,761     | 10,303    | 0.115      |
 
 The [Russian Error-Annotated Learner English Corpus (REALEC)](https://realec.org/index.xhtml#/exam/) is an open access corpus available from HSE university. It contains approximately 18,700 texts written by HSE students in the Independent English Language Test between 2014-2020 in response to two types of tasks (approximately 4,336,000 words). A team of specially trained Linguistics undergraduate students proficient in English annotated about 6,000 essays between 2014 and 2019, and when a much larger volume of texts began to be submitted to REALEC in 2020, manual annotation was replaced with a BERT-transformer-type neural network for both identification and correction of errors. In this shared task, we are releasing only the manually annotated essays.
-
-**REALEC data is being finalized**. News on the data will be published here and announced on our [google group](https://groups.google.com/g/multiged-2023) shortly!
