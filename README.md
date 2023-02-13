@@ -39,14 +39,14 @@ Some of these datasets are already used in Grammatical Error Detection/Correctio
 Please let us know if you find any errors/inconsistencies in a dataset by submitting an Issue/Pull Request on the Github repo. Any changes to the data will be announced via the [MultiGED-2023 Google Group](https://groups.google.com/g/multiged-2023) (so please join it!).
 
 
-| Source corpus |  Split             | Nr sentences | Nr tokens | Nr errors | Error rate |
-|:--------------|:-------------------|:-------------|:----------|:----------|:-----------|
-| GECCC         | Total              | 35,443       |365,033    | 88,148    | 0.242      |
-| FCE           | Total              | 33,236       |531,416    | 53,607    | 0.101      |
-| REALEC*        | Total              | 8136         |177,769    | 20,159    | 0.113      |
-| Falko-MERLIN  | Total              | 24,077       |381,134    | 64,054    | 0.168      |
-| MERLIN        | Total              | 8,061        | 102,807   | 15,475    | 0.151      |
-| SweLL-gold    | Total              | 8,554        | 145,525   | 27,291    |	0.188      |
+| Source corpus | Language | Split             | Nr sentences | Nr tokens | Nr errors | Error rate |
+|:--------------|:---------|:-------------------|:-------------|:----------|:----------|:-----------|
+| GECCC         | Czech    | Total              | 35,443       |365,033    | 88,148    | 0.242      |
+| FCE           | English  |  Total              | 33,236       |531,416    | 53,607    | 0.101      |
+| REALEC*       | English  | Total              | 8136         |177,769    | 20,159    | 0.113      |
+| Falko-MERLIN  | German   | Total              | 24,077       |381,134    | 64,054    | 0.168      |
+| MERLIN        | Italian  | Total              | 8,061        | 102,807   | 15,475    | 0.151      |
+| SweLL-gold    | Swedish  | Total              | 8,554        | 145,525   | 27,291    |	0.188      |
 
 \* dev and test sets only
 
