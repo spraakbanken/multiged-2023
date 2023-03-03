@@ -302,7 +302,7 @@ n't	c
 very	c
 interesting	c
 .	c
-which	NA
+which	c
 I	c
 must	c
 have	c
@@ -405,7 +405,7 @@ chairs	c
 you	c
 are	c
 sitting	c
-down	NA
+down	c
 were	i
 set	c
 from	i
@@ -863,7 +863,7 @@ it	c
 's	c
 a	c
 theatre	c
-but	NA
+but	c
 not	c
 a	c
 concert	c
@@ -916,7 +916,7 @@ n't	c
 have	c
 enough	c
 staffs	i
-,	NA
+,	c
 this	i
 evening	c
 !	c
@@ -949,7 +949,7 @@ awful	c
 
 I	c
 sent	i
-to	NA
+to	c
 you	c
 a	c
 copie	i
@@ -964,7 +964,7 @@ pleased	i
 return	c
 our	c
 money	c
-back	NA
+back	c
 .	c
 
 In	c
@@ -1063,7 +1063,7 @@ that	c
 Pat	c
 works	c
 in	c
-the	NA
+the	c
 Neubathin	c
 a	c
 little	c
@@ -1127,8 +1127,8 @@ could	c
 n't	c
 keep	c
 secret	i
-but	NA
-for	NA
+but	c
+for	c
 this	c
 time	c
 she	c
@@ -1393,7 +1393,7 @@ time	c
 and	c
 the	c
 musical	c
-show	NA
+show	c
 started	c
 later	c
 than	c
@@ -1409,7 +1409,7 @@ I	c
 dislike	i
 very	i
 much	i
-the	NA
+the	c
 impuntuality	i
 ,	c
 but	c
@@ -1701,7 +1701,7 @@ change	c
 because	c
 they	c
 help	c
-us	NA
+us	c
 to	c
 make	c
 our	c
@@ -2009,7 +2009,7 @@ to	c
 share	c
 with	c
 you	c
-about	NA
+about	c
 my	c
 experience	c
 .	c
@@ -2276,7 +2276,7 @@ true	c
 
 The	c
 woman	c
-,	NA
+,	c
 who	c
 sold	c
 a	i
@@ -2358,7 +2358,7 @@ was	c
 very	i
 disappointing	c
 evening	c
-out	NA
+out	c
 in	c
 my	c
 life	c
@@ -2395,7 +2395,7 @@ him	i
 .	c
 
 It	c
-'s	NA
+'s	c
 happened	c
 3	c
 months	c
@@ -2461,7 +2461,7 @@ I	c
 hoped	i
 that	c
 it	c
-,	NA
+,	c
 just	i
 could	i
 see	i
@@ -2594,7 +2594,7 @@ He	c
 will	c
 be	c
 in	c
-the	NA
+the	c
 prison	c
 5	i
 years	c
@@ -2675,7 +2675,7 @@ letter	c
 you	c
 sent	c
 me	c
-,	NA
+,	c
 about	c
 the	c
 two	c
@@ -2718,7 +2718,7 @@ accommodation	c
 I	c
 would	c
 prefer	c
-in	NA
+in	c
 tents	i
 because	c
 I	c
@@ -2824,7 +2824,7 @@ to	c
 relate	i
 my	c
 experience	c
-in	NA
+in	c
 helping	c
 at	c
 a	c
@@ -2865,8 +2865,8 @@ consisted	c
 in	c
 surrounding	c
 the	c
-festival	NA
-'s	NA
+festival	c
+'s	c
 place	i
 with	c
 fences	c
@@ -2881,8 +2881,8 @@ to	c
 install	c
 the	c
 scene	i
-,	NA
-with	NA
+,	c
+with	c
 lights	c
 ,	c
 loudspeakers	c
@@ -2942,10 +2942,10 @@ front	i
 of	c
 the	c
 scene	i
-,	NA
+,	c
 to	c
 avoid	i
-the	NA
+the	c
 people	c
 coming	c
 on	c
@@ -3075,7 +3075,7 @@ with	c
 ,	c
 you	c
 wrote	c
-down	NA
+down	c
 in	c
 the	c
 leaflet	c
@@ -3119,8 +3119,8 @@ countries	c
 .	c
 
 Furthermore	c
-is	NA
-that	NA
+is	c
+that	c
 some	c
 concert	c
 halls	c
@@ -3200,7 +3200,7 @@ good	c
 because	c
 it	c
 gave	c
-to	NA
+to	c
 the	c
 people	c
 the	c
@@ -3220,7 +3220,7 @@ To	c
 finish	c
 this	c
 letter	c
-with	NA
+with	c
 I	c
 would	c
 like	c
@@ -3394,7 +3394,7 @@ the	c
 film	c
 rolls	c
 ,	c
-for	NA
+for	c
 cleaning	c
 the	c
 toilets	c
@@ -3565,7 +3565,7 @@ wrong	c
 Firstly	c
 ,	c
 I	c
-have	NA
+have	c
 had	c
 no	c
 discount	c
@@ -3604,7 +3604,7 @@ I	c
 decided	c
 to	c
 have	c
-a	NA
+a	c
 lunch	c
 in	c
 theatre	i
@@ -3812,7 +3812,7 @@ easily	c
 We	c
 can	c
 get	c
-some	NA
+some	c
 information	c
 more	c
 quickly	c
@@ -3927,7 +3927,7 @@ behave	c
 more	c
 respectfully	c
 againgst	i
-the	NA
+the	c
 nature	c
 .	c
 
@@ -3970,11 +3970,11 @@ see	c
 and	c
 to	c
 love	i
-the	NA
+the	c
 art	c
 ,	c
 but	c
-,	NA
+,	c
 I	c
 think	i
 also	i
@@ -4086,7 +4086,7 @@ to	c
 offer	c
 a	c
 reasonably	c
--	NA
+-	c
 priced	c
 weekend	c
 ticket	c
@@ -4120,7 +4120,7 @@ you	c
 to	c
 set	i
 fro	i
-the	NA
+the	c
 next	c
 year	c
 a	c
@@ -4253,7 +4253,7 @@ job	c
 is	c
 perfect	c
 for	c
-the	NA
+the	c
 young	c
 people	c
 who	c
@@ -4264,7 +4264,7 @@ and	c
 in	i
 the	i
 meantime	i
-they	NA
+they	c
 have	c
 to	c
 study	c
@@ -4313,7 +4313,7 @@ fun	c
 with	c
 them	c
 during	c
-the	NA
+the	c
 work	c
 .	c
 
@@ -4388,7 +4388,7 @@ was	c
 there	c
 I	c
 saw	c
-just	NA
+just	c
 other	i
 starring	i
 that	c
@@ -4450,7 +4450,7 @@ at	c
 p.m.	c
 but	c
 it	c
-was	NA
+was	c
 started	c
 at	c
 20.15	c
@@ -4556,7 +4556,7 @@ to	i
 refund	c
 some	c
 money	i
-back	NA
+back	c
 .	c
 
 I	c
@@ -4625,18 +4625,18 @@ have	c
 a	c
 really	c
 good	c
-,	NA
+,	c
 freind	i
 ,	c
 Pat	c
 who	c
 I	c
-was	NA
+was	c
 trusted	c
 and	c
 counted	c
 on	c
-her	NA
+her	c
 .	c
 
 I	c
@@ -4650,7 +4650,7 @@ years	c
 
 and	i
 we	c
-were	NA
+were	c
 love	i
 each	c
 other	c
@@ -4741,7 +4741,7 @@ make	c
 sure	c
 that	c
 he	c
-was	NA
+was	c
 relly	i
 love	i
 me	c
@@ -4812,7 +4812,7 @@ I	c
 realio	i
 -	i
 on	c
-her	NA
+her	c
 .	c
 
 I	c
@@ -4825,13 +4825,13 @@ boyfreind	i
 and	c
 when	c
 we	c
-were	NA
+were	c
 met	c
 each	c
 other	c
 and	c
 evertauly	i
-we	NA
+we	c
 were	i
 falling	i
 in	c
@@ -5230,7 +5230,7 @@ that	c
 I	c
 was	c
 helping	c
-in	NA
+in	c
 backstage	c
 with	c
 the	c
@@ -5340,7 +5340,7 @@ hear	c
 from	c
 you	c
 later	c
-on	NA
+on	c
 .	c
 
 Love	c
@@ -5412,7 +5412,7 @@ actors	c
 ,	c
 time	c
 ,	c
-price	NA
+price	c
 discount	c
 and	c
 equipment	i
@@ -5732,7 +5732,7 @@ Helen	c
 I	c
 'm	c
 writing	c
-back	NA
+back	c
 to	c
 answer	c
 the	c
@@ -5891,7 +5891,7 @@ it	c
 
 Oh	c
 ,	c
-for	NA
+for	c
 last	c
 I	c
 just	c
@@ -5903,7 +5903,7 @@ you	c
 how	c
 many	i
 clothes	i
-,	NA
+,	c
 and	c
 money	c
 I	c
@@ -5936,8 +5936,8 @@ answers	c
 of	i
 my	c
 question	i
-,	NA
-anyway	NA
+,	c
+anyway	c
 .	c
 
 Thank	c
@@ -6244,7 +6244,7 @@ I	c
 am	c
 really	c
 happy	c
-for	NA
+for	c
 receive	i
 your	c
 congratulations	c
@@ -6279,7 +6279,7 @@ the	c
 opportunitie	i
 to	c
 visit	c
-the	NA
+the	c
 Camp	c
 California	c
 in	c
@@ -6305,10 +6305,10 @@ two	c
 reason	i
 one	i
 's	c
-is	NA
+is	c
 because	c
 I	c
-totaly	NA
+totaly	c
 will	c
 finish	i
 my	c
@@ -6393,7 +6393,7 @@ I	c
 have	c
 the	c
 chance	c
-for	NA
+for	c
 to	c
 choose	c
 two	c
@@ -6487,8 +6487,8 @@ need	c
 special	i
 equipment	c
 and	c
-then	NA
-there	NA
+then	c
+there	c
 are	i
 available	i
 in	c
@@ -6518,7 +6518,7 @@ if	i
 you	c
 can	i
 answer	c
-me	NA
+me	c
 these	c
 doubt	i
 and	c
@@ -6587,7 +6587,7 @@ before	c
 during	c
 and	c
 after	c
-to	NA
+to	c
 shopping	c
 .	c
 
@@ -6597,8 +6597,8 @@ general	c
 have	c
 a	c
 compulsory	i
-actitud	NA
-for	NA
+actitud	c
+for	c
 shopping	i
 in	c
 my	c
@@ -6619,7 +6619,7 @@ necessary	c
 .	c
 We	c
 must	c
-to	NA
+to	c
 accept	c
 that	c
 media	i
@@ -6636,7 +6636,7 @@ the	c
 T.V.	c
 
 For	c
-the	NA
+the	c
 men	c
 and	c
 women	c
@@ -6651,7 +6651,7 @@ a	c
 lot	c
 of	c
 money	c
-in	NA
+in	c
 buy	i
 clothes	c
 ,	c
@@ -6664,7 +6664,7 @@ etc	c
 .	c
 
 And	c
-the	NA
+the	c
 other	c
 they	i
 choose	i
@@ -6700,13 +6700,13 @@ because	c
 people	c
 in	c
 general	c
-they	NA
+they	c
 do	c
 n't	c
 spent	i
-the	NA
+the	c
 time	c
-for	NA
+for	c
 prepare	i
 food	c
 and	c
@@ -6793,16 +6793,16 @@ decide	c
 with	c
 the	c
 goverment	i
-.	NA
+.	c
 
 which	c
-is	NA
+is	c
 special	c
 place	c
 in	c
 the	c
 town	c
-we	NA
+we	c
 lefet	i
 just	c
 for	i
@@ -6823,7 +6823,7 @@ like	c
 a	c
 big	c
 supermarket	c
-,	NA
+,	c
 and	c
 mall	c
 centre	c
@@ -6847,7 +6847,7 @@ COMPLAIN	c
 ABOUT	c
 A	c
 MUSICAL	c
-SHOW	NA
+SHOW	c
 THAT	c
 IS	c
 TAKING	c
@@ -7058,10 +7058,10 @@ BE	c
 YOURSELF	c
 
 IN	c
-,	NA
+,	c
 THE	c
 FUTURE	c
-,	NA
+,	c
 PEOPLE	c
 WILL	c
 BE	c
@@ -7145,9 +7145,9 @@ TIME	c
 THEY	c
 ARE	c
 ASKING	c
-,	NA
+,	c
 WHAT	c
-ARE	NA
+ARE	c
 THEY	c
 LOOKING	i
 LIKE	c
@@ -7168,7 +7168,7 @@ WHOLE	c
 ,	c
 CLOTHES	c
 WILL	c
-HAVE	NA
+HAVE	c
 NO	i
 CHANGE	c
 .	c
@@ -7230,7 +7230,7 @@ complain	c
 about	c
 the	c
 musical	c
-show	NA
+show	c
 \"	c
 Over	c
 the	c
@@ -7297,7 +7297,7 @@ the	c
 time	c
 that	c
 the	c
-musical	NA
+musical	c
 show	c
 started	c
 ,	i
@@ -7364,7 +7364,7 @@ Finally	c
 ,	c
 when	c
 the	c
-musical	NA
+musical	c
 show	c
 finished	c
 ,	c
@@ -7894,7 +7894,7 @@ lasts	c
 a	c
 whole	c
 day	c
-long	NA
+long	c
 .	c
 
 We	c
@@ -8251,7 +8251,7 @@ in	c
 your	c
 advertisement	c
 it	c
-was	NA
+was	c
 said	c
 that	c
 I	c
@@ -8739,7 +8739,7 @@ and	c
 Leisure	c
 Show	c
 and	c
-would	NA
+would	c
 all	c
 wish	c
 to	c
@@ -9160,7 +9160,7 @@ door	c
 without	c
 getting	i
 out	i
-from	NA
+from	c
 the	c
 living	c
 room	c
@@ -9468,7 +9468,7 @@ Fashion	c
 and	c
 Leisure	c
 show	c
-,	NA
+,	c
 that	c
 we	c
 saw	c
@@ -9477,7 +9477,7 @@ and	c
 we	c
 are	c
 interested	c
-indeed	NA
+indeed	c
 .	c
 
 In	c
@@ -9559,7 +9559,7 @@ after	c
 we	c
 are	c
 going	c
-for	NA
+for	c
 shopping	c
 ,	c
 so	c
@@ -9639,7 +9639,7 @@ show	c
 and	c
 particularly	c
 what	i
-does	NA
+does	c
 it	c
 include	i
 .	c
@@ -9694,15 +9694,15 @@ show	i
 while	c
 we	c
 are	c
-going	NA
-to	NA
-be	NA
+going	c
+to	c
+be	c
 in	c
 London	c
 .	c
 
 But	c
-,	NA
+,	c
 if	c
 there	c
 is	c
@@ -9725,7 +9725,7 @@ shopping	i
 I	c
 suggest	c
 having	i
-the	NA
+the	c
 shopping	c
 on	c
 Wednesday	c
@@ -9793,15 +9793,15 @@ well	c
 
 I	c
 believe	c
-,	NA
+,	c
 that	c
 if	c
 somebody	c
 wants	c
-the	NA
+the	c
 fame	c
 and	c
-the	NA
+the	c
 glory	c
 must	i
 be	c
@@ -9815,9 +9815,9 @@ results	c
 For	c
 example	c
 ,	c
-the	NA
+the	c
 politicians	c
-the	NA
+the	c
 have	c
 choosed	i
 their	c
@@ -10032,7 +10032,7 @@ And	c
 finally	c
 the	c
 journalists	c
-the	NA
+the	c
 should	c
 know	c
 how	c
@@ -10049,15 +10049,15 @@ trying	i
 to	c
 make	c
 money	c
-for	NA
-a	NA
-living	NA
+for	c
+a	c
+living	c
 by	c
 using	c
 the	c
 reputation	c
 of	c
-the	NA
+the	c
 famous	c
 people	c
 .	c
@@ -10101,7 +10101,7 @@ that	c
 this	c
 programme	c
 has	i
-a	NA
+a	c
 good	i
 organisation	i
 ,	c
@@ -10125,7 +10125,7 @@ points	c
 .	c
 
 But	c
-,	NA
+,	c
 I	c
 was	c
 wondering	c
@@ -10191,7 +10191,7 @@ the	c
 morning	c
 and	c
 the	i
-,	NA
+,	c
 we	c
 can	c
 go	c
@@ -10215,7 +10215,7 @@ the	c
 latest	c
 fashions	c
 like	c
-the	NA
+the	c
 leisure	c
 ,	i
 sports	i
@@ -10254,7 +10254,7 @@ me	c
 know	c
 if	c
 you	c
-are	NA
+are	c
 agree	c
 with	c
 us	c
@@ -10432,7 +10432,7 @@ change	c
 the	i
 way	c
 of	c
-our	NA
+our	c
 lifes	i
 .	c
 We	c
@@ -10444,9 +10444,9 @@ accelerate	i
 the	c
 process	i
 of	c
-the	NA
+the	c
 computer	c
-'s	NA
+'s	c
 games	c
 for	c
 example	c
@@ -10490,7 +10490,7 @@ because	c
 as	c
 you	c
 know	c
-the	NA
+the	c
 things	c
 are	c
 developing	c
@@ -10511,7 +10511,7 @@ I	c
 strongly	c
 believe	c
 that	c
-the	NA
+the	c
 the	c
 house	c
 of	c
@@ -11215,7 +11215,7 @@ so	c
 it	c
 could	c
 be	c
-a	NA
+a	c
 useful	c
 training	c
 for	c
@@ -11361,7 +11361,7 @@ who	c
 organize	c
 the	c
 security	c
-service	NA
+service	c
 ...	c
 it	c
 was	c
@@ -11383,7 +11383,7 @@ on	c
 them	c
 and	c
 taking	c
-the	NA
+the	c
 people	c
 to	c
 their	c
@@ -11525,7 +11525,7 @@ some	c
 days	c
 to	c
 relax	c
-myself	NA
+myself	c
 and	c
 to	c
 leave	c
@@ -11590,8 +11590,8 @@ weeks	i
 I	i
 would	i
 prefer	i
-to	NA
-live	NA
+to	c
+live	c
 in	c
 tents	i
 ,	c
@@ -11645,7 +11645,7 @@ sailing	c
 ,	c
 because	c
 I	c
-am	NA
+am	c
 used	c
 to	c
 practise	i
@@ -11747,7 +11747,7 @@ opinion	c
 the	c
 majority	c
 of	c
-the	NA
+the	c
 people	c
 that	i
 go	c
@@ -12127,7 +12127,7 @@ glad	c
 I	c
 had	i
 taken	c
-a	NA
+a	c
 part	c
 in	c
 a	c
@@ -12149,14 +12149,14 @@ Would	c
 you	c
 tell	c
 me	c
-that	NA
+that	c
 how	c
 much	c
 money	c
 you	c
 would	i
 give	c
-it	NA
+it	c
 to	c
 me	c
 and	c
@@ -12230,7 +12230,7 @@ must	c
 say	c
 that	c
 was	c
-a	NA
+a	c
 great	c
 fun	c
 ,	c
@@ -12607,7 +12607,7 @@ is	c
 there	c
 anything	c
 else	c
-do	NA
+do	c
 I	c
 have	c
 to	c
@@ -12633,7 +12633,7 @@ Kim	c
 ,	c
 
 I	c
-'ve	NA
+'ve	c
 received	c
 your	c
 letter	c
@@ -13317,7 +13317,7 @@ dressing	i
 room	c
 manager	i
 said	i
-that	NA
+that	c
 if	c
 I	c
 could	c
@@ -13338,7 +13338,7 @@ was	c
 in	c
 her	c
 room	c
-and	NA
+and	c
 helping	c
 her	c
 .	c
@@ -13805,7 +13805,7 @@ shop	c
 07	c
 
 Dear	c
-Madam	NA
+Madam	c
 Helen	c
 Ryan	c
 
@@ -13986,7 +13986,7 @@ we	i
 have	c
 to	c
 take	c
-off	NA
+off	c
 with	c
 us	c
 ?	c
@@ -14008,9 +14008,9 @@ Are	i
 there	c
 some	i
 possibility	c
-to	NA
+to	c
 rent	c
-the	NA
+the	c
 golfshoes	i
 ?	c
 
@@ -14020,7 +14020,7 @@ we	c
 like	i
 to	c
 know	c
-,	NA
+,	c
 when	c
 you	c
 will	c
@@ -14028,7 +14028,7 @@ send	c
 us	c
 the	c
 airline	c
--	NA
+-	c
 tickets	c
 and	c
 the	c
@@ -14037,7 +14037,7 @@ tripbrochure	i
 
 Moreover	c
 ,	c
-what	NA
+what	c
 do	i
 think	i
 how	i
@@ -14137,7 +14137,7 @@ people	c
 We	c
 were	c
 mainly	c
-on	NA
+on	c
 work	i
 for	i
 all	c
@@ -14164,7 +14164,7 @@ addition	c
 ,	c
 it	c
 was	c
-a	NA
+a	c
 nine	c
 days	c
 hard	i
@@ -14188,7 +14188,7 @@ place	c
 Finally	c
 ,	c
 we	c
-had	NA
+had	c
 worked	c
 the	c
 hohl	i
@@ -14621,7 +14621,7 @@ I	c
 am	c
 very	c
 surprised	c
-for	NA
+for	c
 have	i
 received	c
 your	c
@@ -14677,7 +14677,7 @@ about	i
 the	c
 date	c
 of	c
-the	NA
+the	c
 travel	c
 ,	c
 I	c
@@ -14695,7 +14695,7 @@ I	c
 am	c
 working	c
 at	c
-the	NA
+the	c
 University	c
 and	c
 I	c
@@ -14748,7 +14748,7 @@ I	c
 used	c
 to	c
 go	c
-to	NA
+to	c
 campings	i
 .	c
 
@@ -14819,8 +14819,8 @@ bring	i
 to	i
 me	i
 money	c
-in	NA
-there	NA
+in	c
+there	c
 ?	c
 
 I	c
@@ -14859,7 +14859,7 @@ ours	i
 common	i
 friends	i
 Martha	c
-,	NA
+,	c
 ofered	i
 me	c
 to	i
@@ -14943,7 +14943,7 @@ meals	c
 for	c
 all	c
 the	c
-organization	NA
+organization	c
 staff	c
 and	c
 besides	i
@@ -14951,8 +14951,8 @@ every	c
 day	c
 I	c
 was	c
-at	NA
-the	NA
+at	c
+the	c
 back	i
 -	i
 stage	i
@@ -15019,7 +15019,7 @@ been	c
 in	i
 London	c
 for	c
-spending	NA
+spending	c
 a	c
 week	c
 's	c
@@ -15038,7 +15038,7 @@ went	c
 to	c
 see	c
 this	c
-musical	NA
+musical	c
 show	c
 .	c
 
@@ -15134,7 +15134,7 @@ them	c
 and	c
 they	c
 said	c
-me	NA
+me	c
 that	c
 they	c
 were	c
@@ -15317,7 +15317,7 @@ most	c
 important	c
 modern	i
 technology	c
-in	NA
+in	c
 these	c
 days	c
 is	c
@@ -15335,7 +15335,7 @@ want	c
 without	c
 going	c
 out	c
-home	NA
+home	c
 (	c
 shoping	i
 ,	c
@@ -15365,7 +15365,7 @@ that	c
 using	c
 modern	c
 machines	c
-it	NA
+it	c
 can	c
 be	c
 very	c
@@ -15385,7 +15385,7 @@ modern	c
 industries	c
 train	i
 people	c
-about	NA
+about	c
 using	i
 modern	c
 technologies	c
@@ -15562,7 +15562,7 @@ would	c
 like	c
 to	c
 suggest	c
-you	NA
+you	c
 how	c
 the	c
 programme	c
@@ -15622,7 +15622,7 @@ Please	c
 let	c
 us	c
 know	c
-,	NA
+,	c
 as	c
 soon	c
 as	c
@@ -15726,7 +15726,7 @@ to	c
 give	c
 any	c
 advice	c
-you	NA
+you	c
 about	c
 it	c
 ,	c
@@ -16034,7 +16034,7 @@ money	c
 I	c
 will	c
 spend	c
-on	NA
+on	c
 .	c
 
 I	c
@@ -16073,8 +16073,8 @@ enjoyable	c
 In	c
 fact	c
 ,	c
-to	NA
-do	NA
+to	c
+do	c
 shopping	c
 can	c
 be	i
@@ -16102,7 +16102,7 @@ free	c
 cabin	i
 and	c
 waste	c
-of	NA
+of	c
 time	c
 putting	c
 on	c
@@ -16146,7 +16146,7 @@ buy	i
 all	c
 these	i
 clothes	c
-,	NA
+,	c
 which	c
 you	c
 do	c
@@ -16203,7 +16203,7 @@ In	c
 my	c
 opinion	c
 ,	c
-doing	NA
+doing	c
 shopping	c
 bring	i
 me	c
@@ -16520,8 +16520,8 @@ computer	c
 only	c
 to	c
 play	c
-with	NA
-its	NA
+with	c
+its	c
 video	c
 games	c
 .	c
@@ -16641,7 +16641,7 @@ is	c
 better	c
 now	c
 than	c
-what	NA
+what	c
 it	c
 used	c
 to	c
@@ -16829,7 +16829,7 @@ helps	c
 me	c
 to	c
 relax	c
-myself	NA
+myself	c
 and	c
 forget	c
 about	c
@@ -17001,7 +17001,7 @@ stage	c
 which	c
 is	c
 not	c
-an	NA
+an	c
 easy	c
 work	c
 because	c
@@ -17274,7 +17274,7 @@ have	c
 to	c
 take	c
 for	c
-the	NA
+the	c
 food	c
 ,	c
 please	c
@@ -17360,7 +17360,7 @@ Shopping	c
 is	c
 also	c
 good	c
-,	NA
+,	c
 when	c
 you	c
 know	c
@@ -17575,7 +17575,7 @@ ago	c
 and	c
 the	c
 actor	c
-'s	NA
+'s	c
 Danny	c
 Brook	c
 performance	i
@@ -17588,7 +17588,7 @@ the	c
 theatre	c
 at	c
 19.30	c
-o'clock	NA
+o'clock	c
 but	c
 ,	c
 with	i
@@ -17634,7 +17634,7 @@ actor	c
 Danny	c
 Brook	c
 ,	c
-there	NA
+there	c
 was	c
 n't	c
 in	c
@@ -17670,7 +17670,7 @@ the	c
 tickets	c
 ,	c
 for	c
-the	NA
+the	c
 groups	c
 ,	c
 but	c
@@ -17751,7 +17751,7 @@ days	c
 ago	c
 ,	c
 when	c
-the	NA
+the	c
 school	c
 was	c
 ending	i
@@ -17778,7 +17778,7 @@ of	c
 the	c
 school	c
 and	i
-the	NA
+the	c
 Francis	c
 's	c
 birthday	c
@@ -17815,14 +17815,14 @@ Peter	c
 and	c
 Sue	c
 asked	c
-to	NA
+to	c
 Francis	c
 some	i
 help	c
 for	i
 their	c
 exam	c
-'s	NA
+'s	c
 subjets	i
 and	c
 Francis	c
@@ -17875,8 +17875,8 @@ afternoon	c
 she	c
 had	c
 phoned	c
-at	NA
-a	NA
+at	c
+a	c
 Francis	c
 's	c
 mother	c
@@ -17890,7 +17890,7 @@ secret	c
 then	c
 she	c
 phoned	c
-at	NA
+at	c
 her	c
 best	c
 friend	c
@@ -17903,11 +17903,11 @@ too	i
 ;	c
 she	c
 phoned	c
-at	NA
+at	c
 many	c
 people	c
 all	c
-the	NA
+the	c
 day	c
 .	c
 
@@ -17976,7 +17976,7 @@ where	c
 the	c
 owner	c
 ,	c
-a	NA
+a	c
 his	c
 friend	c
 ,	c
@@ -18178,7 +18178,7 @@ no	c
 staff	c
 to	c
 welcome	c
-the	NA
+the	c
 people	c
 .	c
 
@@ -18300,7 +18300,7 @@ did	c
 n't	c
 tell	c
 me	c
-yet	NA
+yet	c
 but	c
 when	c
 I	c
@@ -18480,7 +18480,7 @@ have	c
 seen	c
 the	c
 programme	c
-list	NA
+list	c
 and	c
 we	c
 all	c
@@ -18867,7 +18867,7 @@ help	c
 
 I	c
 phoned	c
-to	NA
+to	c
 police	i
 And	i
 told	c
@@ -19197,7 +19197,7 @@ matter	c
 how	c
 much	c
 money	c
-does	NA
+does	c
 it	c
 cost	i
 .	c
@@ -19263,7 +19263,7 @@ ROBERTSON	c
 I	c
 AM	c
 WRITING	c
-YOU	NA
+YOU	c
 WITH	c
 REFERENCE	c
 IN	i
@@ -19600,7 +19600,7 @@ PORTOBELLO	c
 I	c
 TOLD	c
 HIM	c
-,	NA
+,	c
 I	c
 DIDN'T	c
 KNOW	c
@@ -19634,9 +19634,9 @@ ASK	c
 THEM	c
 THE	c
 WAY	c
-I	NA
-SHOULD	NA
-TAKE	NA
+I	c
+SHOULD	c
+TAKE	c
 .	c
 
 AT	i
@@ -19728,7 +19728,7 @@ HAPPY	c
 THAT	c
 I	c
 ASKED	c
-TO	NA
+TO	c
 THE	c
 RIGHT	c
 PERSON	c
@@ -19781,9 +19781,9 @@ advertisement	c
 for	c
 the	c
 show	c
-,	NA
+,	c
 that	c
-there	NA
+there	c
 would	i
 be	i
 Danny	i
@@ -20006,7 +20006,7 @@ was	c
 about	c
 a	c
 surprise	c
--	NA
+-	c
 party	c
 for	c
 her	c
@@ -20090,7 +20090,7 @@ friends	c
 were	c
 amazed	c
 at	c
-her	NA
+her	c
 change	i
 and	c
 started	c
@@ -20126,7 +20126,7 @@ Rainbow	c
 \"	c
 which	c
 is	c
-the	NA
+the	c
 London	c
 's	c
 newest	c
@@ -20205,8 +20205,8 @@ would	c
 be	c
 so	c
 kind	c
-and	NA
-mind	NA
+and	c
+mind	c
 correct	c
 this	c
 mistake	c
@@ -20380,10 +20380,10 @@ Box	c
 
 I	c
 made	c
-a	NA
+a	c
 beautifull	i
 invite	i
-cards	NA
+cards	c
 for	c
 every	i
 Agatha	c
@@ -20630,7 +20630,7 @@ you	c
 should	c
 improve	c
 in	c
-the	NA
+the	c
 next	c
 year	c
 's	c
@@ -20779,7 +20779,7 @@ hope	c
 you	c
 will	c
 continue	c
-to	NA
+to	c
 making	i
 your	c
 festivals	c
@@ -20881,7 +20881,7 @@ class	c
 and	c
 we	c
 help	c
-to	NA
+to	c
 each	c
 other	c
 when	c
@@ -20942,7 +20942,7 @@ family	c
 is	c
 so	c
 friendly	c
-,	NA
+,	c
 it	i
 's	i
 because	c
@@ -20997,7 +20997,7 @@ Regarding	c
 your	c
 letter	c
 dated	c
-on	NA
+on	c
 the	c
 6th	c
 of	c
@@ -21045,7 +21045,7 @@ time	c
 .	c
 
 Although	c
-,	NA
+,	c
 the	c
 accommodation	c
 is	c
@@ -21115,7 +21115,7 @@ I	i
 have	c
 to	c
 pay	c
-by	NA
+by	c
 myself	c
 ?	c
 
@@ -21293,8 +21293,8 @@ the	c
 same	c
 level	c
 as	c
-they	NA
-have	NA
+they	c
+have	c
 their	c
 eyes	c
 .	c
@@ -21415,7 +21415,7 @@ answer	c
 
 The	c
 only	c
-one	NA
+one	c
 term	i
 for	c
 me	c
@@ -21481,7 +21481,7 @@ hot	c
 Tent	i
 will	c
 be	c
-more	NA
+more	c
 cooler	c
 to	c
 sleep	c
@@ -21687,8 +21687,8 @@ We	c
 can	c
 buy	c
 everything	c
-what	NA
-about	NA
+what	c
+about	c
 we	c
 imagine	c
 .	c
@@ -21751,7 +21751,7 @@ On	c
 Friedy	i
 evening	c
 and	c
-at	NA
+at	c
 on	c
 the	c
 weekdays	c
@@ -22322,7 +22322,7 @@ TRAVEL	c
 TIME	c
 ,	c
 ACCOMMODATION	c
-'S	NA
+'S	c
 PREFERENCES	c
 AND	c
 ACTIVITIES	c
@@ -22432,7 +22432,7 @@ SOME	c
 FINANCIAL	c
 REPORTS	c
 SO	c
-THE	NA
+THE	c
 ELECTRICITY	c
 WILL	c
 BE	c
@@ -22698,11 +22698,11 @@ WAIT	c
 FOR	c
 THE	c
 ORDER	c
-REALISATION	NA
+REALISATION	c
 .	c
 
 PEOPLE	c
-,	NA
+,	c
 WHO	c
 DON'T	c
 LIKE	c
@@ -22827,7 +22827,7 @@ CAN	c
 CHOOSE	c
 THE	c
 WAY	c
-HOW	NA
+HOW	c
 TO	c
 DO	c
 IT	c
@@ -22837,7 +22837,7 @@ IT	c
 ABSOLUTELY	c
 DEPENDS	c
 ON	c
-A	NA
+A	c
 LIFE	i
 -	i
 STYLE	i
@@ -22941,7 +22941,7 @@ am	c
 not	c
 used	c
 to	c
-with	NA
+with	c
 narrow	c
 space	i
 and	c
@@ -22976,7 +22976,7 @@ and	c
 enjoyed	i
 to	i
 take	i
-a	NA
+a	c
 photograph	i
 of	c
 wildlife	c
@@ -23002,7 +23002,7 @@ and	i
 how	c
 much	c
 would	i
-be	NA
+be	c
 spend	i
 there	c
 .	c
@@ -23040,7 +23040,7 @@ Kim	c
 ,	c
 
 Sorry	c
-for	NA
+for	c
 I	c
 haven't	c
 written	c
@@ -23078,10 +23078,10 @@ was	c
 a	c
 big	c
 one	c
-that	NA
-I	NA
-never	NA
-thougth	NA
+that	c
+I	c
+never	c
+thougth	c
 and	c
 I	c
 could	c
@@ -23139,7 +23139,7 @@ was	c
 But	c
 ,	c
 I	c
-'ve	NA
+'ve	c
 got	c
 though	i
 it	c
@@ -23156,7 +23156,7 @@ a	i
 break	c
 ,	c
 served	i
-a	NA
+a	c
 drink	i
 ,	c
 clothes	c
@@ -23191,7 +23191,7 @@ know	c
 because	c
 of	c
 these	i
-are	NA
+are	c
 change	i
 all	i
 my	i
@@ -23229,7 +23229,7 @@ as	c
 you	c
 have	c
 seen	c
-it	NA
+it	c
 I	c
 've	c
 given	c
@@ -23318,7 +23318,7 @@ very	c
 dissapointed	i
 with	c
 the	c
-musical	NA
+musical	c
 show	c
 .	c
 
@@ -23361,7 +23361,7 @@ on	c
 time	c
 but	c
 the	c
-musical	NA
+musical	c
 show	c
 was	c
 delayed	c
@@ -23499,7 +23499,7 @@ had	c
 different	c
 entertainments	i
 that	i
-the	NA
+the	c
 actually	i
 children	c
 had	i
@@ -23615,7 +23615,7 @@ the	c
 other	c
 hand	c
 ,	c
-the	NA
+the	c
 science	c
 is	c
 changing	c
@@ -23734,7 +23734,7 @@ at	i
 I	c
 also	c
 hope	c
-,	NA
+,	c
 that	c
 the	c
 festival	c
@@ -23800,7 +23800,7 @@ money	c
 It	c
 would	c
 explain	c
-,	NA
+,	c
 why	c
 some	c
 concert	c
@@ -24004,7 +24004,7 @@ not	c
 disturb	c
 others	c
 during	c
-the	NA
+the	c
 classes	c
 .	c
 
@@ -24047,7 +24047,7 @@ lying	c
 on	c
 the	c
 school	c
-'s	NA
+'s	c
 floors	c
 is	c
 not	c
@@ -24155,7 +24155,7 @@ faithfully	c
 
 Dear	c
 Ms	c
-Helen	NA
+Helen	c
 Ryan	c
 
 I	c
@@ -24205,7 +24205,7 @@ in	c
 July	c
 .	i
 Because	i
-,	NA
+,	c
 I	c
 am	c
 a	c
@@ -24276,7 +24276,7 @@ However	c
 in	c
 your	c
 letter	c
-is	NA
+is	c
 written	i
 some	c
 activities	c
@@ -24297,7 +24297,7 @@ playing	i
 in	c
 a	c
 team	c
-,	NA
+,	c
 of	i
 my	c
 town	c
@@ -24331,7 +24331,7 @@ be	c
 grateful	c
 to	c
 you	c
-,	NA
+,	c
 if	c
 you	c
 told	i
@@ -24399,7 +24399,7 @@ with	c
 the	c
 pop	c
 concert	c
-;	NA
+;	c
 last	c
 month	c
 .	c
@@ -24469,7 +24469,7 @@ concert	c
 
 I	c
 know	c
-,	NA
+,	c
 It	i
 was	c
 difficult	c
@@ -24511,7 +24511,7 @@ wonderful	c
 when	c
 I	c
 saw	c
-,	NA
+,	c
 that	c
 the	c
 concert	c
@@ -24710,7 +24710,7 @@ show	c
 is	c
 on	c
 Tuesday	c
-the	NA
+the	c
 14th	c
 between	c
 10.00-	i
@@ -24774,8 +24774,8 @@ the	c
 Museum	c
 and	c
 then	c
-for	NA
-the	NA
+for	c
+the	c
 shopping	c
 in	c
 our	c
@@ -24809,7 +24809,7 @@ is	c
 something	c
 which	c
 is	c
-a	NA
+a	c
 very	c
 important	c
 .	c
@@ -24874,7 +24874,7 @@ corner	c
 where	c
 we	c
 are	c
-all	NA
+all	c
 able	c
 to	c
 rest	c
@@ -25099,7 +25099,7 @@ He	c
 did	c
 not	c
 play	i
-in	NA
+in	c
 the	i
 evening	c
 .	c
@@ -25376,7 +25376,7 @@ traveling	i
 However	c
 my	c
 family	c
-'s	NA
+'s	c
 members	c
 do	c
 less	i
@@ -25404,13 +25404,13 @@ In	c
 my	c
 opinion	c
 ,	c
-the	NA
+the	c
 morden	i
 technology	c
 make	i
 our	c
 life	c
-style	NA
+style	c
 combinient	i
 .	c
 
@@ -25426,7 +25426,7 @@ think	c
 we	c
 should	c
 think	c
-about	NA
+about	c
 more	c
 carefully	c
 when	c
@@ -25542,7 +25542,7 @@ During	c
 the	c
 show	c
 I	c
-was	NA
+was	c
 expected	c
 to	c
 meet	i
@@ -25634,7 +25634,7 @@ refund	i
 for	c
 my	c
 ticket	c
-back	NA
+back	c
 because	c
 it	c
 was	c
@@ -25688,7 +25688,7 @@ real	c
 
 It	c
 happened	c
-in	NA
+in	c
 last	c
 summer	c
 we	i
@@ -26498,7 +26498,7 @@ show	c
 which	c
 you	c
 presented	c
-on	NA
+on	c
 last	c
 saturday	i
 .	c
@@ -26514,7 +26514,7 @@ my	c
 friend	c
 during	c
 our	c
-a	NA
+a	c
 week	c
 's	c
 holiday	c
@@ -26635,7 +26635,7 @@ be	c
 
 It	c
 was	c
-a	NA
+a	c
 such	i
 boaring	i
 to	c
@@ -26701,7 +26701,7 @@ the	c
 door	c
 saying	c
 that	c
-the	NA
+the	c
 painting	c
 was	c
 going	c
@@ -26724,8 +26724,8 @@ the	c
 sentence	c
 was	i
 written	c
-blow	NA
-down	NA
+blow	c
+down	c
 on	c
 the	c
 advertisement	c
@@ -26857,7 +26857,7 @@ meet	c
 some	c
 friend	c
 ,	c
-but	NA
+but	c
 I	c
 could	c
 n't	c
@@ -26936,7 +26936,7 @@ that	c
 I	c
 was	c
 always	c
-been	NA
+been	c
 outside	c
 of	c
 circle	i
@@ -27077,7 +27077,7 @@ story	c
 ,	c
 it	c
 became	c
-a	NA
+a	c
 top	c
 gossip	c
 among	c
@@ -27209,7 +27209,7 @@ atmosphere	c
 when	i
 I	c
 live	i
-in	NA
+in	c
 .	c
 
 I	c
@@ -27560,9 +27560,9 @@ I	c
 would	c
 like	i
 also	i
-with	NA
-the	NA
-present	NA
+with	c
+the	c
+present	c
 to	c
 give	c
 you	c
@@ -27810,7 +27810,7 @@ visited	c
 some	c
 classes	c
 during	c
-the	NA
+the	c
 lesson	i
 and	c
 some	c
@@ -27846,7 +27846,7 @@ filmed	c
 .	c
 
 It	c
-'s	NA
+'s	c
 seems	c
 to	c
 me	c
@@ -28023,7 +28023,7 @@ have	c
 to	c
 declare	c
 that	c
-my	NA
+my	c
 myself	i
 and	c
 my	c
@@ -28124,7 +28124,7 @@ July	c
 ,	c
 due	c
 to	c
-the	NA
+the	c
 problems	c
 beyond	c
 my	c
@@ -28349,7 +28349,7 @@ to	c
 do	c
 much	i
 more	c
-different	NA
+different	c
 things	c
 apart	c
 from	c
@@ -28578,9 +28578,9 @@ you	c
 planned	i
 for	c
 us	c
-,	NA
+,	c
 students	c
-,	NA
+,	c
 it	i
 's	i
 a	c
@@ -28595,8 +28595,8 @@ visit	c
 a	c
 beautiful	c
 city	c
-like	NA
-London	NA
+like	c
+London	c
 .	c
 
 Your	c
@@ -28608,7 +28608,7 @@ it	c
 tries	c
 to	c
 offer	c
-to	NA
+to	c
 the	c
 students	c
 the	c
@@ -28807,7 +28807,7 @@ for	i
 the	c
 rest	c
 of	c
-the	NA
+the	c
 society	c
 .	c
 
@@ -28886,7 +28886,7 @@ person	c
 does	c
 n't	c
 mind	c
-in	NA
+in	c
 being	c
 filmed	c
 in	c
@@ -28995,12 +28995,12 @@ I	c
 'm	c
 writing	c
 you	i
-in	NA
+in	c
 complain	i
 about	c
 musical	i
 show	c
-,	NA
+,	c
 that	c
 I	c
 have	i
@@ -29199,7 +29199,7 @@ When	c
 Thomas	c
 Adison	c
 invented	c
-an	NA
+an	c
 electric	c
 light	c
 ,	c
@@ -29321,7 +29321,7 @@ more	i
 ,	c
 yesterday	c
 I	c
-'ve	NA
+'ve	c
 heard	c
 that	c
 every	c
@@ -29329,7 +29329,7 @@ man	c
 could	c
 fly	c
 to	i
-the	NA
+the	c
 space	c
 without	c
 any	c
@@ -29351,7 +29351,7 @@ everybody	c
 will	c
 fly	c
 to	i
-the	NA
+the	c
 space	c
 .	c
 
@@ -30114,7 +30114,7 @@ prices	c
 of	c
 things	c
 like	c
-in	NA
+in	c
 there	c
 ,	c
 so	i
@@ -30188,7 +30188,7 @@ we	c
 spent	c
 3	c
 days	c
-on	NA
+on	c
 setting	c
 up	c
 the	c
@@ -30283,7 +30283,7 @@ the	c
 players	i
 have	i
 been	i
-to	NA
+to	c
 there	c
 to	c
 test	c
@@ -30403,7 +30403,7 @@ advertisement	c
 ,	c
 it	c
 is	c
-the	NA
+the	c
 LONDON	c
 'S	c
 NEWEST	c
@@ -30538,7 +30538,7 @@ I	c
 could	c
 n't	c
 have	c
-a	NA
+a	c
 dinner	c
 at	c
 the	c
@@ -30553,7 +30553,7 @@ It	c
 had	c
 already	c
 closed	c
-,	NA
+,	c
 when	c
 the	c
 show	c
@@ -30703,7 +30703,7 @@ my	c
 message	c
 ,	c
 they	c
-can	NA
+can	c
 receive	c
 it	c
 .	c
@@ -30726,7 +30726,7 @@ It	c
 's	c
 really	c
 useful	c
-,	NA
+,	c
 when	c
 I	c
 need	c
@@ -30872,7 +30872,7 @@ wait	c
 for	c
 45	c
 minutes	c
-without	NA
+without	c
 doing	c
 anything	i
 .	c
@@ -30908,7 +30908,7 @@ I	c
 had	c
 to	c
 pay	c
-for	NA
+for	c
 normal	i
 price	c
 .	c
@@ -30939,7 +30939,7 @@ go	c
 home	c
 without	c
 eating	c
-a	NA
+a	c
 dinner	c
 ,	c
 though	c
@@ -30986,7 +30986,7 @@ I	c
 strongly	c
 suggest	c
 you	c
-should	NA
+should	c
 give	c
 us	c
 right	i
@@ -31125,7 +31125,7 @@ example	c
 they	c
 'll	c
 wear	c
-a	NA
+a	c
 cloth	i
 which	c
 protect	i
@@ -31210,8 +31210,8 @@ their	c
 faces	c
 from	c
 sun	i
--	NA
-burn	NA
+-	c
+burn	c
 ,	c
 and	c
 it	c
@@ -31270,7 +31270,7 @@ disappointing	c
 .	c
 
 It	c
-is	NA
+is	c
 said	c
 that	i
 the	i
@@ -31360,9 +31360,9 @@ reason	c
 The	c
 real	c
 show	c
-on	NA
-it	NA
-owns	NA
+on	c
+it	c
+owns	c
 is	c
 really	c
 very	c
@@ -31443,7 +31443,7 @@ fashion	c
 of	i
 nowaday	c
 clothings	i
-is	NA
+is	c
 just	c
 keep	i
 on	c
@@ -31476,10 +31476,10 @@ think	c
 it	c
 depends	c
 on	c
-the	NA
+the	c
 people	c
 's	c
-own	NA
+own	c
 personalities	c
 and	c
 develope	i
@@ -31528,7 +31528,7 @@ colours	c
 ,	c
 I	c
 think	c
-the	NA
+the	c
 metalic	i
 colours	c
 ,	c
@@ -31572,7 +31572,7 @@ be	c
 a	c
 farbic	i
 use	i
-for	NA
+for	c
 make	i
 clothings	i
 and	c
@@ -31719,7 +31719,7 @@ I	c
 think	c
 they	c
 are	c
-more	NA
+more	c
 cleaner	c
 than	c
 the	c
@@ -31926,7 +31926,7 @@ You	c
 can	c
 not	c
 lose	i
-the	NA
+the	c
 time	c
 because	c
 all	c
@@ -32195,7 +32195,7 @@ horrible	c
 evening	c
 I	c
 had	i
-out	NA
+out	c
 and	c
 because	c
 of	c
@@ -32213,7 +32213,7 @@ me	c
 a	c
 refound	i
 of	i
-a	NA
+a	c
 part	c
 of	c
 the	c
@@ -32252,7 +32252,7 @@ your	c
 theather	i
 to	c
 cheat	c
-to	NA
+to	c
 your	c
 customers	c
 .	c
@@ -32463,14 +32463,14 @@ Internet	i
 and	c
 it	i
 gives	c
-to	NA
+to	c
 my	c
 family	c
 too	c
 much	c
 facility	i
-to	NA
-get	NA
+to	c
+get	c
 every	i
 information	i
 we	c
@@ -32488,7 +32488,7 @@ was	c
 the	c
 result	c
 of	c
-the	NA
+the	c
 Sunday	c
 's	c
 football	c
@@ -32697,7 +32697,7 @@ wasted	c
 time	i
 too	i
 much	i
-for	NA
+for	c
 waiting	c
 .	c
 
@@ -32882,7 +32882,7 @@ have	c
 some	c
 special	c
 day	c
-when	NA
+when	c
 like	c
 important	i
 public	c
@@ -32903,7 +32903,7 @@ kinds	c
 of	c
 clothes	c
 which	c
-was	NA
+was	c
 you	c
 never	i
 seen	c
@@ -32936,7 +32936,7 @@ And	c
 they	c
 will	c
 use	c
-the	NA
+the	c
 most	c
 kinds	c
 of	c
@@ -32978,7 +32978,7 @@ And	c
 you	c
 can	c
 see	c
-the	NA
+the	c
 their	c
 clothes	c
 also	c
@@ -33147,7 +33147,7 @@ so	c
 I	c
 can	c
 say	c
-,	NA
+,	c
 that	c
 I	c
 am	c
@@ -33738,7 +33738,7 @@ What	i
 kind	c
 of	c
 clothes	c
-do	NA
+do	c
 I	c
 have	c
 to	c
@@ -33818,7 +33818,7 @@ n't	c
 imagine	c
 How	i
 much	c
-did	NA
+did	c
 I	c
 enjoy	i
 that	c
@@ -33834,7 +33834,7 @@ morning	c
 helping	c
 to	c
 carry	c
-the	NA
+the	c
 stuff	c
 from	c
 the	c
@@ -33924,7 +33924,7 @@ concert	c
 I	c
 only	c
 help	i
-with	NA
+with	c
 tidy	c
 up	c
 the	c
@@ -34144,7 +34144,7 @@ be	c
 in	c
 contact	c
 with	c
-the	NA
+the	c
 nature	c
 as	c
 well	c
@@ -34603,7 +34603,7 @@ appeared	c
 on	c
 the	c
 stage	c
-,	NA
+,	c
 during	c
 the	c
 play	c
@@ -34868,7 +34868,7 @@ back	c
 to	c
 my	c
 school	c
-and	NA
+and	c
 she	c
 met	c
 Mr	c
@@ -34979,7 +34979,7 @@ was	c
 sure	c
 this	c
 was	c
-the	NA
+the	c
 London	c
 's	c
 newest	c
@@ -35069,13 +35069,13 @@ to	c
 write	c
 anything	c
 if	c
-you	NA
-do	NA
-n't	NA
-make	NA
+you	c
+do	c
+n't	c
+make	c
 it	c
 true	i
-then	NA
+then	c
 .	c
 
 Finally	c
@@ -35394,7 +35394,7 @@ can	c
 I	c
 say	c
 about	c
-the	NA
+the	c
 television	c
 ?	c
 
@@ -35726,7 +35726,7 @@ want	c
 to	c
 complain	c
 about	c
-,	NA
+,	c
 is	c
 that	c
 your	i
@@ -36172,7 +36172,7 @@ When	c
 finally	i
 the	i
 show	i
-had	NA
+had	c
 started	c
 I	c
 found	c
@@ -36237,7 +36237,7 @@ n't	i
 such	c
 perfect	i
 evening	c
-,	NA
+,	c
 as	c
 was	c
 promised	c
@@ -36365,7 +36365,7 @@ all	c
 Internet	i
 gives	c
 you	c
-an	NA
+an	c
 access	c
 to	c
 a	c
@@ -36476,7 +36476,7 @@ with	c
 it	c
 and	c
 not	c
-to	NA
+to	c
 be	c
 depended	i
 on	c
@@ -36603,7 +36603,7 @@ love	c
 being	c
 close	c
 to	c
-the	NA
+the	c
 nature	c
 .	c
 
@@ -36783,7 +36783,7 @@ to	c
 worry	c
 from	i
 vere	i
-do	NA
+do	c
 I	c
 take	i
 money	c
