@@ -45,7 +45,7 @@ Please let us know if you find any errors/inconsistencies in a dataset by submit
 | FCE           | English  |  Total             | 33,236       | 531,416   | 53,607    | 0.101      |
 | REALEC*       | English  | Total              | 8,136        | 177,769   | 20,159    | 0.113      |
 | Falko-MERLIN  | German   | Total              | 24,077       | 381,134   | 64,054    | 0.168      |
-| MERLIN        | Italian  | Total              | 8,061        | 99,698   | 15,264    | 0.153      |
+| MERLIN        | Italian  | Total              | 7948        | 99,698   | 14,893    | 0.149      |
 | SweLL-gold    | Swedish  | Total              | 8,554        | 145,525   | 27,291    | 0.188      |
 
 \* dev and test sets only
