@@ -417,7 +417,6 @@ al	i
 28	c
 m	c
 .	c
-
 Gentile	c
 Signore	c
 !	c
@@ -2227,12 +2226,12 @@ il	c
 vostro	c
 annuncio	c
 delle	c
-\"	c
+\\\"	c
 Serate	c
 di	c
 cucina	c
 internazionale	c
-\"	c
+\\\"	c
 e	c
 devo	c
 dire	c
@@ -2344,11 +2343,11 @@ la	i
 Vostra	i
 programma	c
 nel	c
-\"	c
+\\\"	c
 Residence	c
 del	c
 Lago	c
-\"	c
+\\\"	c
 o	c
 di	c
 corretare	i
@@ -2920,10 +2919,10 @@ terzo	c
 anno	c
 dell'	i
 Universita	i
-\"	c
+\\\"	c
 La	c
 Sapienza	c
-\"	c
+\\\"	c
 di	c
 Città	c
 X	c
@@ -2954,10 +2953,10 @@ X	c
 tel.	c
 0345-11111111	c
 Spett.	c
-\"	c
+\\\"	c
 Solidarietà	c
 Viva	c
-\"	c
+\\\"	c
 Viale	c
 Bruzzi	c
 117	c
@@ -3232,9 +3231,9 @@ possibilità	c
 per	c
 combinare	c
 il	i
-\"	c
+\\\"	c
 Internet-Chat	c
-\"	c
+\\\"	c
 con	c
 le	c
 amicizie	c
@@ -3403,9 +3402,9 @@ lo	c
 stage	c
 nell'	c
 agenzia	c
-\"	c
+\\\"	c
 Valtour	c
-\"	c
+\\\"	c
 in	c
 Italia	c
 .	c
@@ -3584,11 +3583,11 @@ le	c
 mie	c
 vacanze	c
 nella	i
-\"	c
+\\\"	c
 Residence	c
 del	c
 lago	c
-\"	c
+\\\"	c
 .	c
 
 Perché	c
@@ -3669,11 +3668,11 @@ sono	c
 stata	c
 al	c
 vostro	c
-\"	c
+\\\"	c
 Residence	c
 del	c
 Lago	c
-\"	c
+\\\"	c
 per	c
 passare	c
 una	c
@@ -3703,7 +3702,6 @@ annuncio	c
 
 Assolutamente	c
 !	c
-
 Aspetto	c
 con	c
 impatienza	i
@@ -3968,9 +3966,9 @@ anni	c
 frequento	c
 un	c
 corso	c
-\"	i
+\\\"	i
 Conversazione	i
-\"	i
+\\\"	i
 .	c
 
 CARO	i
@@ -3983,10 +3981,10 @@ TUA	i
 LETTERA	i
 SUL	i
 GIORNALE	i
-\"	c
+\\\"	c
 SETTIMANA	i
 GIOVANI	i
-\"	c
+\\\"	c
 ,	c
 NON	i
 RIESCO	i
@@ -4064,10 +4062,10 @@ saramo	i
 al	c
 ristorante	c
 ,	i
-\"	c
+\\\"	c
 Da	c
 Ciro	c
-\"	c
+\\\"	c
 ,	i
 per	c
 mangiare	c
@@ -4555,7 +4553,6 @@ curriculum	c
 al	c
 14.8	c
 .	i
-
 Ci	c
 sono	c
 altri	c
@@ -5917,7 +5914,7 @@ in	c
 un	c
 centro	c
 commerciale	c
-\"	c
+\\\"	c
 Centro	c
 X	c
 a	i
@@ -6125,7 +6122,6 @@ il	c
 vostro	c
 desiderio	c
 !	c
-
 !	c
 
 Anch'	c
@@ -6447,10 +6443,10 @@ viaggio	c
 Mi	c
 piace	c
 ristorante	i
-\"	c
+\\\"	c
 da	c
 ciro	i
-\"	c
+\\\"	c
 e	c
 vorrei	c
 già	c
@@ -6510,11 +6506,11 @@ che	c
 loro	c
 aspettano	c
 molto	c
-\"	c
+\\\"	c
 il	c
 giorno	i
 grande	i
-\"	c
+\\\"	c
 .	c
 
 Alla	c
@@ -6617,7 +6613,7 @@ Ho	c
 lavorato	c
 nel'	i
 albergo	c
-\"	c
+\\\"	c
 Albergo	c
 X	c
 per	c
@@ -6899,7 +6895,6 @@ fine	c
 la	i
 settimana	c
 .	c
-
 Vorrei	c
 sappere	i
 ,	i
@@ -6932,7 +6927,6 @@ per	c
 la	c
 tua	c
 .....	c
-
 .	c
 
 Quando	c
@@ -7218,7 +7212,6 @@ e	c
 cari	c
 saluti	c
 !	c
-
 VORREI	i
 sapere	c
 che	c
@@ -9090,11 +9083,11 @@ visitato	c
 anzi	i
 le	c
 isole	c
-\"	i
+\\\"	i
 Burano	c
 e	c
 Murano	c
-\"	i
+\\\"	i
 .	c
 
 Vi	i
