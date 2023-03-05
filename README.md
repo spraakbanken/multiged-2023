@@ -138,8 +138,8 @@ Further instructions on this will follow.
 * 23 January, 2023 - first call for participation. Training and validation data released, CodaLab opens for team registrations.
 * 14 February, 2023 - second call/reminder
 * ~~27 February~~ 06 March, 2023 - test data released
-* ~~03 March~~ 10 March, 2023 - system submission deadline (system output)
-* ~~10 March~~ 14 March, 2023 - results announced
+* ~~03 March~~ 13 March, 2023 - system submission deadline (system output)
+* ~~10 March~~ 15 March, 2023 - results announced
 * 03 April, 2023 - paper submission deadline with system descriptions. We encourage you to share models, code, fact sheets, extra data, etc. with the community through github or other repositories on paper publication.
 * 21 April, 2023 - paper reviews sent to the authors
 * 01 May, 2023 - camera-ready deadline
