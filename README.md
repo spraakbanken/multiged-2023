@@ -41,12 +41,12 @@ Please let us know if you find any errors/inconsistencies in a dataset by submit
 
 | Source corpus | Language | Split             | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:---------|:-------------------|:-------------|:----------|:----------|:-----------|
-| GECCC         | Czech    | Total              | 35,443       | 399,742   | 84,041    | 0.210      |
-| FCE           | English  |  Total             | 33,2367      | 531,416   | 50,860    | 0.096      |
+| GECCC         | Czech    | Total              | 35,453       | 399,742   | 84,041    | 0.210      |
+| FCE           | English  |  Total             | 33,243      | 531,416   | 50,860    | 0.096      |
 | REALEC*       | English  | Total              | 8,136        | 177,769   | 16,608    | 0.093      |
-| Falko-MERLIN  | German   | Total              | 24,077       | 381,134   | 57,897    | 0.152      |
-| MERLIN        | Italian  | Total              | 7948        | 99,698   | 14,893    | 0.149      |
-| SweLL-gold    | Swedish  | Total              | 8,554        | 145,507   | 27,274    | 0.187      |
+| Falko-MERLIN  | German   | Total              | 24,079       | 381,134   | 57,897    | 0.152      |
+| MERLIN        | Italian  | Total              | 7949        | 99,698   | 14,893    | 0.149      |
+| SweLL-gold    | Swedish  | Total              | 8,553        | 145,507   | 27,274    | 0.187      |
 
 \* dev and test sets only
 
