@@ -6,8 +6,8 @@ There are two corpora for English: FCE and REALEC. Note that for REALEC we are r
 
 | Source corpus |  Split                 | Proportion | Nr sentences | Nr tokens | Nr errors | Error rate |
 |:--------------|:-----------------------|:-----------|:-------------|:----------|:----------|:-----------|
-| FCE           | Total                  | 1.0        | 33,237       |531,416    | 50,860    | 0.096      |
-|               | • train                | 0.855      | 28,351       |454,736    | 42,899    | 0.094      |
+| FCE           | Total                  | 1.0        | 33,243       |531,416    | 50,860    | 0.096      |
+|               | • train                | 0.855      | 28,357       |454,736    | 42,899    | 0.094      |
 |               | • dev                  | 0.065      | 2,191        |34,748     | 3,460     | 0.100      |
 |               | • test                 | 0.079      | 2,695        |41,932     | 4,501     | 0.107      |
 
