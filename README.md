@@ -8,6 +8,84 @@ To register for/express interest in the shared task, please fill in [this form](
 To get important information and updates about the shared task, please join the [MultiGED-2023 Google Group](https://groups.google.com/g/multiged-2023).   
 Official system evaluation will be carried out on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9784).  
 
+---
+
+## Competition results
+
+### Czech
+
+|  Team Name  | Precision |  Recall   | F0.5  |
+|:------------|:----------|:----------|:------|
+|  Team 1     | |||
+|  Team 2     | |||
+|  Team 3     | |||
+|  Team 4     | |||
+|  Team 5     | |||
+|  Team 6     | |||
+|  Team 7     | |||
+
+### English - FCE
+
+|  Team Name  | Precision |  Recall   | F0.5  |
+|:------------|:----------|:----------|:------|
+|  Team 1     | |||
+|  Team 2     | |||
+|  Team 3     | |||
+|  Team 4     | |||
+|  Team 5     | |||
+|  Team 6     | |||
+|  Team 7     | |||
+
+### English - REALEC
+
+|  Team Name  | Precision |  Recall   | F0.5  |
+|:------------|:----------|:----------|:------|
+|  Team 1     | |||
+|  Team 2     | |||
+|  Team 3     | |||
+|  Team 4     | |||
+|  Team 5     | |||
+|  Team 6     | |||
+|  Team 7     | |||
+
+### German
+
+|  Team Name  | Precision |  Recall   | F0.5  |
+|:------------|:----------|:----------|:------|
+|  Team 1     | |||
+|  Team 2     | |||
+|  Team 3     | |||
+|  Team 4     | |||
+|  Team 5     | |||
+|  Team 6     | |||
+|  Team 7     | |||
+
+### Italian
+
+|  Team Name  | Precision |  Recall   | F0.5  |
+|:------------|:----------|:----------|:------|
+|  Team 1     | |||
+|  Team 2     | |||
+|  Team 3     | |||
+|  Team 4     | |||
+|  Team 5     | |||
+|  Team 6     | |||
+|  Team 7     | |||
+
+### Swedish
+
+|  Team Name  | Precision |  Recall   | F0.5  |
+|:------------|:----------|:----------|:------|
+|  Team 1     | |||
+|  Team 2     | |||
+|  Team 3     | |||
+|  Team 4     | |||
+|  Team 5     | |||
+|  Team 6     | |||
+|  Team 7     | |||
+
+
+
 ## Task description
 
 The aim of this shared task is to detect tokens in need of correction across five different languages, labeling them as either correct (**"c"**) or incorrect (**"i"**), i.e. performing binary classification at the token level, as shown in the example below.
