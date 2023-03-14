@@ -12,81 +12,205 @@ Official system evaluation will be carried out on [CodaLab](https://codalab.lisn
 
 ## Competition results
 
-The results are ordered by F0.5-score. Results of the best system out of the two submissions (based on F0.5) are shown.
+The results are roughly ordered by F0.5-score and show only the best out of two submissions (based on F0.5). 
 
----
+<table>
+    <thead>
+        <tr>
+            <th/>
+            <th colspan=3>Czech</th>
+            <th colspan=3>English - FCE</th>
+            <th colspan=3>English - REALEC</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+            <th>Team Name</th>
+            <th>P</th>
+            <th>R</th>
+            <th>F0.5</th>
+            <th>P</th>
+            <th>R</th>
+            <th>F0.5</th>
+            <th>P</th>
+            <th>R</th>
+            <th>F0.5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>EliCoDe</td>
+            <td>82.01</td>
+            <td>51.79</td>
+            <td>73.44</td>
+            <td>73.64</td>
+            <td>50.34</td>
+            <td>67.40</td>
+            <td>44.32</td>
+            <td>40.73</td>
+            <td>43.55</td>
+        </tr>
+        <tr>
+            <td>Team 2</td>
+            <td>58.31</td>
+            <td>55.69</td>
+            <td>57.76</td>
+            <td>72.36</td>
+            <td>37.81</td>
+            <td>61.18</td>
+            <td>62.81</td>
+            <td>28.88</td>
+            <td>50.86</td>
+        </tr>
+        <tr>
+            <td>Brainstorm Thinkers</td>
+            <td>62.35</td>
+            <td>23.44</td>
+            <td>46.81</td>
+            <td>70.21</td>
+            <td>37.55</td>
+            <td>59.81</td>
+            <td>48.19</td>
+            <td>31.22</td>
+            <td>43.46</td>
+        </tr>
+        <tr>
+            <td>Team 3</td>
+            <td>34.93</td>
+            <td>63.95</td>
+            <td>38.42</td>
+            <td>20.76</td>
+            <td>29.53</td>
+            <td>22.07</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>NTNU-TRH</td>
+            <td>80.65</td>
+            <td>6.49</td>
+            <td>24.54</td>
+            <td>81.37</td>
+            <td>1.84</td>
+            <td>8.45</td>
+            <td>51.34</td>
+            <td>1.13</td>
+            <td>5.19</td>
+        </tr>
+        <tr>
+            <td>su-dali</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
-### Czech
-
-
-|  Team Name  | P         |  R        |   F0.5  |
-|:------------|:----------|:----------|:--------|
-|  Team 1     | 82.01     | 51.79     | 73.44  |
-|  Team 2     | 58.31     | 55.69     | 57.76  |
-|  Team 3     | 62.35     | 23.44     | 46.81  |
-|  Team 4     | 34.93     | 63.95     | 38.42  |
-|  Team 5     | 80.65     | 6.49      | 24.54  |
-
----
-
-### English - FCE
-
-|  Team Name  | P         |  R        |   F0.5  |
-|:------------|:----------|:----------|:---------|
-|  Team 1     | 73.64     | 50.34     | 67.40   |
-|  Team 2     | 72.36     | 37.81     | 61.18   |
-|  Team 3     | 70.21     | 37.55     | 59.81   |
-|  Team 4     | 20.76     | 29.53     | 22.07   |
-|  Team 5     | 81.37     | 1.84      | 8.45    |
-
----
-
-### English - REALEC
-
-|  Team Name  | P         |  R        |   F0.5  |
-|:------------|:----------|:--------|:-------|
-|  Team 1     | 62.81    | 28.88  | 50.86 |
-|  Team 2     | 44.32    | 40.73  | 43.55 |
-|  Team 3     | 48.19    | 31.22  | 43.45 |
-|  Team 4     | 51.34    | 1.13   | 05.19 |
-
----
-
-### German
-
-|  Team Name  | P         |  R        |   F0.5  |
-|:------------|:----------|:-------|:-------|
-|  Team 1     | 84.78    | 73.75 | 82.32 |
-|  Team 2     | 77.80    | 51.92 | 70.75 |
-|  Team 3     | 77.94    | 47.55 | 69.11 |
-|  Team 4     | 83.56    | 15.58 | 44.61 |
-|  Team 5     | 25.18    | 44.27 | 27.56 |
-
----
-
-### Italian
-
-|  Team Name  | P         |  R        |   F0.5  |
-|:------------|:----------|:-------|:-------|
-|  Team 1     | 86.67    | 67.96 | 82.15 |
-|  Team 2     | 75.72    | 38.67 | 63.55 |
-|  Team 3     | 70.65    | 36.46 | 59.49 |
-|  Team 4     | 93.38    | 19.84 | 53.62 |
-|  Team 5     | 25.79    | 44.24 | 28.14 |
-
----
-
-### Swedish
-
-|  Team Name  | P         |  R        |   F0.5  |
-|:------------|:----------|:-------|:-------|
-|  Team 1     | 81.80    | 66.34 | 78.16 |
-|  Team 2     | 74.85    | 44.92 | 66.05 |
-|  Team 3     | 73.81    | 39.94 | 63.11 |
-|  Team 4     | 82.41    | 27.18 | 58.60 |
-|  Team 5     | 26.40    | 55.00 | 29.46 |
-|  Team 6     | 80.12    | 05.09 | 20.31 |
-
+<table>
+    <thead>
+        <tr>
+            <th/>
+            <th colspan=3>German</th>
+            <th colspan=3>Italian</th>
+            <th colspan=3>Swedish</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+            <th>Team Name</th>
+            <th>P</th>
+            <th>R</th>
+            <th>F0.5</th>
+            <th>P</th>
+            <th>R</th>
+            <th>F0.5</th>
+            <th>P</th>
+            <th>R</th>
+            <th>F0.5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>EliCoDe</td>
+            <td>84.78</td>
+            <td>73.75</td>
+            <td>82.32</td>
+            <td>86.67</td>
+            <td>67.96</td>
+            <td>82.15</td>
+            <td>81.80</td>
+            <td>66.34</td>
+            <td>78.16</td>
+        </tr>
+        <tr>
+            <td>Team 2</td>
+            <td>77.80</td>
+            <td>51.92</td>
+            <td>70.75</td>
+            <td>75.72</td>
+            <td>38.67</td>
+            <td>63.55</td>
+            <td>74.85</td>
+            <td>44.92</td>
+            <td>66.05</td>
+        </tr>
+        <tr>
+            <td>Brainstorm Thinkers</td>
+            <td>77.94</td>
+            <td>47.55</td>
+            <td>69.11</td>
+            <td>70.65</td>
+            <td>36.46</td>
+            <td>59.49</td>
+            <td>73.81</td>
+            <td>39.94</td>
+            <td>63.11</td>
+        </tr>
+        <tr>
+            <td>Team 3</td>
+            <td>25.18</td>
+            <td>44.27</td>
+            <td>27.56</td>
+            <td>25.79</td>
+            <td>44.24</td>
+            <td>28.14</td>
+            <td>26.40</td>
+            <td>55.00</td>
+            <td>29.46</td>
+        </tr>
+        <tr>
+            <td>NTNU-TRH</td>
+            <td>83.56</td>
+            <td>15.58</td>
+            <td>4.61</td>
+            <td>93.38</td>
+            <td>19.84</td>
+            <td>53.62</td>
+            <td>80.12</td>
+            <td>5.09</td>
+            <td>20.31</td>
+        </tr>
+        <tr>
+            <td>su-dali</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>82.41</td>
+            <td>27.18</td>
+            <td>58.60</td>
+        </tr>
+    </tbody>
+</table>
 ---
 
 ## Task description
