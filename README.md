@@ -11,80 +11,80 @@ Official system evaluation will be carried out on [CodaLab](https://codalab.lisn
 ---
 
 ## Competition results
+---
+The results are ordered by F0.5-score. Results of the best system out of the two submissions (based on F0.5) are shown.
 
 ### Czech
 
-|  Team Name  | Precision |  Recall   | F0.5  |
-|:------------|:----------|:----------|:------|
-|  Team 1     | |||
-|  Team 2     | |||
-|  Team 3     | |||
-|  Team 4     | |||
-|  Team 5     | |||
-|  Team 6     | |||
-|  Team 7     | |||
+|  Team Name  | Precision |  Recall   |   F0.5  |
+|:------------|:----------|:----------|:--------|
+|  Team 1     | 0,8201    | 0,5179    | 0,7344  |
+|  Team 2     | 0,5831    | 0,5569    | 0,5776  |
+|  Team 3     | 0,6235    | 0,2344    | 0,4681  |
+|  Team 4     | 0,3493    | 0,6395    | 0,3842  |
+|  Team 5     | 0,8065    | 0,0649    | 0,2454  |
+
+---
 
 ### English - FCE
 
-|  Team Name  | Precision |  Recall   | F0.5  |
-|:------------|:----------|:----------|:------|
-|  Team 1     | |||
-|  Team 2     | |||
-|  Team 3     | |||
-|  Team 4     | |||
-|  Team 5     | |||
-|  Team 6     | |||
-|  Team 7     | |||
+|  Team Name  | Precision |  Recall   | F0.5     |
+|:------------|:----------|:----------|:---------|
+|  Team 1     | 0,7364    | 0,5034    | 0,674    |
+|  Team 2     | 0,7236    | 0,3781    | 0,6118   |
+|  Team 3     | 0,7021    | 0,3755    | 0,5981   |
+|  Team 4     | 0,2076    | 0,2953    | 0,2207   |
+|  Team 5     | 0,8137    | 0,0184    | 0,0845   |
+
+---
 
 ### English - REALEC
 
-|  Team Name  | Precision |  Recall   | F0.5  |
-|:------------|:----------|:----------|:------|
-|  Team 1     | |||
-|  Team 2     | |||
-|  Team 3     | |||
-|  Team 4     | |||
-|  Team 5     | |||
-|  Team 6     | |||
-|  Team 7     | |||
+|  Team Name  | Precision | Recall  |  F0.5  |
+|:------------|:----------|:--------|:-------|
+|  Team 1     | 0,6281    | 0,2888  | 0,5086 |
+|  Team 2     | 0,4432    | 0,4073  | 0,4355 |
+|  Team 3     | 0,4819    | 0,3122  | 0,4345 |
+|  Team 4     | 0,5134    | 0,0113  | 0,0519 |
+
+---
 
 ### German
 
-|  Team Name  | Precision |  Recall   | F0.5  |
-|:------------|:----------|:----------|:------|
-|  Team 1     | |||
-|  Team 2     | |||
-|  Team 3     | |||
-|  Team 4     | |||
-|  Team 5     | |||
-|  Team 6     | |||
-|  Team 7     | |||
+|  Team Name  | Precision | Recall |  F0.5  |
+|:------------|:----------|:-------|:-------|
+|  Team 1     | 0,8478    | 0,7375 | 0,8232 |
+|  Team 2     | 0,778     | 0,5192 | 0,7075 |
+|  Team 3     | 0,7794    | 0,4755 | 0,6911 |
+|  Team 4     | 0,8356    | 0,1558 | 0,4461 |
+|  Team 5     | 0,2518    | 0,4427 | 0,2756 |
+
+---
 
 ### Italian
 
-|  Team Name  | Precision |  Recall   | F0.5  |
-|:------------|:----------|:----------|:------|
-|  Team 1     | |||
-|  Team 2     | |||
-|  Team 3     | |||
-|  Team 4     | |||
-|  Team 5     | |||
-|  Team 6     | |||
-|  Team 7     | |||
+|  Team Name  | Precision | Recall |  F0.5  |
+|:------------|:----------|:-------|:-------|
+|  Team 1     | 0,8667    | 0,6796 | 0,8215 |
+|  Team 2     | 0,7572    | 0,3867 | 0,6355 |
+|  Team 3     | 0,7065    | 0,3646 | 0,5949 |
+|  Team 4     | 0,9338    | 0,1984 | 0,5362 |
+|  Team 5     | 0,2579    | 0,4424 | 0,2814 |
+
+---
 
 ### Swedish
 
-|  Team Name  | Precision |  Recall   | F0.5  |
-|:------------|:----------|:----------|:------|
-|  Team 1     | |||
-|  Team 2     | |||
-|  Team 3     | |||
-|  Team 4     | |||
-|  Team 5     | |||
-|  Team 6     | |||
-|  Team 7     | |||
+|  Team Name  | Precision | Recall |  F0.5  |
+|:------------|:----------|:-------|:-------|
+|  Team 1     | 0,818     | 0,6634 | 0,7816 |
+|  Team 2     | 0,7485    | 0,4492 | 0,6605 |
+|  Team 3     | 0,7381    | 0,3994 | 0,6311 |
+|  Team 4     | 0,8241    | 0,2718 | 0,586  |
+|  Team 5     | 0,264     | 0,55   | 0,2946 |
+|  Team 6     | 0,8012    | 0,0509 | 0,2031 |
 
-
+---
 
 ## Task description
 
