@@ -211,7 +211,6 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
         </tr>
     </tbody>
 </table>
----
 
 ## Task description
 
