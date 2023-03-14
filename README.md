@@ -11,8 +11,10 @@ Official system evaluation will be carried out on [CodaLab](https://codalab.lisn
 ---
 
 ## Competition results
----
+
 The results are ordered by F0.5-score. Results of the best system out of the two submissions (based on F0.5) are shown.
+
+---
 
 ### Czech
 
