@@ -75,7 +75,7 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td>43.46</td>
         </tr>
         <tr>
-            <td>Team 3</td>
+            <td>VLP-char</td>
             <td>34.93</td>
             <td>63.95</td>
             <td>38.42</td>
@@ -174,7 +174,7 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td>63.11</td>
         </tr>
         <tr>
-            <td>Team 3</td>
+            <td>VLP-char</td>
             <td>25.18</td>
             <td>44.27</td>
             <td>27.56</td>
