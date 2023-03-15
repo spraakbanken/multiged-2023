@@ -42,10 +42,10 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td>EliCoDe</td>
             <td>82.01</td>
             <td>51.79</td>
-            <td>73.44</td>
+            <td><b>73.44</b></td>
             <td>73.64</td>
             <td>50.34</td>
-            <td>67.40</td>
+            <td><b>67.40</b></td>
             <td>44.32</td>
             <td>40.73</td>
             <td>43.55</td>
@@ -60,7 +60,7 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td>61.18</td>
             <td>62.81</td>
             <td>28.88</td>
-            <td>50.86</td>
+            <td><b>50.86</b></td>
         </tr>
         <tr>
             <td>Brainstorm Thinkers</td>
@@ -141,13 +141,13 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td>EliCoDe</td>
             <td>84.78</td>
             <td>73.75</td>
-            <td>82.32</td>
+            <td><b>82.32</b></td>
             <td>86.67</td>
             <td>67.96</td>
-            <td>82.15</td>
+            <td><b>82.15</b></td>
             <td>81.80</td>
             <td>66.34</td>
-            <td>78.16</td>
+            <td><b>78.16</b></td>
         </tr>
         <tr>
             <td>Team 2</td>
