@@ -189,7 +189,7 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td>NTNU-TRH</td>
             <td>83.56</td>
             <td>15.58</td>
-            <td>4.61</td>
+            <td>44.61</td>
             <td>93.38</td>
             <td>19.84</td>
             <td>53.62</td>
