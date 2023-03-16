@@ -51,7 +51,7 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td>43.55</td>
         </tr>
         <tr>
-            <td>Team 2</td>
+            <td>DSL-MIM-HUS</td>
             <td>58.31</td>
             <td>55.69</td>
             <td>57.76</td>
@@ -150,7 +150,7 @@ The results are roughly ordered by F0.5-score and show only the best out of two 
             <td><b>78.16</b></td>
         </tr>
         <tr>
-            <td>Team 2</td>
+            <td>DSL-MIM-HUS</td>
             <td>77.80</td>
             <td>51.92</td>
             <td>70.75</td>
