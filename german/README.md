@@ -13,3 +13,5 @@ The dataset split used here is described in [Boyd (2018)](https://aclanthology.o
 Further information on Merlin can be found in [Boyd et al. (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/606_Paper.pdf) and  on the [Merlin platform](https://www.merlin-platform.eu/). For Falko, please refer to the Falko website [here](https://hu-berlin.de/falko).
 
 Note that tokens transcribed as entirely "-unreadable-" in the Merlin corpus have been omitted (partially unreadable tokens, such as "ver-unreadable-" have been retained).
+
+We include the M2 files from [Adriane Boyd's GitHub repository](https://github.com/adrianeboyd/boyd-wnut2018) due to a security warning on the data link there; we also include the TSV files we derived from the M2. These are the various files starting "fm-*"
