@@ -327,7 +327,7 @@ Although official evaluation will be carried out on [CodaLab](https://codalab.li
 
 `python3 eval.py -hyp <hyp_tsv> -ref <ref_tsv>`
 
-It is assumed that the `hyp_tsv` and `ref_tsv` files are in the same two-column tab-separated format as the data provided in this shared taskk. Note that the script processes a single language at a time, so you will need to call it several times to evaluate multiple languages.  
+It is assumed that the `hyp_tsv` and `ref_tsv` files are in the same two-column tab-separated format as the data provided in this shared task. Note that the script processes a single language at a time, so you will need to call it several times to evaluate multiple languages.  
 
 ## Publication
 
